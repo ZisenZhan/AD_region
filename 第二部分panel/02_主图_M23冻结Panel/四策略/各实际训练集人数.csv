@@ -1,0 +1,5 @@
+﻿job_id,scope,training_rows,AD,control,training_GEOs,training_units
+6e52e049a16416ec3c2e,temporal_neocortex,138,75,63,4,4
+bcc3d2ec97288195b347,temporal_neocortex,138,75,63,4,4
+e8556102b2b32cba4984,pooled,1637,987,650,17,23
+ad1c2f66cddbbacab145,pooled,1637,987,650,17,23

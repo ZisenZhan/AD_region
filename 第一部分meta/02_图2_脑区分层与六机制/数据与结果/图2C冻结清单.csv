@@ -1,0 +1,36 @@
+﻿go_id,term,n_sig,median_abs_z,complete,domains,decision,frontal_q,frontal_z
+GO:0006119,oxidative phosphorylation,6,8.83375129265067,True,Mitochondrial Metabolism,Selected,7.710084648257555e-31,-12.145560299818024
+GO:0007005,mitochondrion organization,6,5.711134508183646,True,Mitochondrial Metabolism,Selected,1.0430423897411409e-19,-9.627518430356295
+GO:0030098,lymphocyte differentiation,6,5.351355548936937,True,Immune Response,Selected,6.726140852788975e-20,9.688285823281188
+GO:0007159,leukocyte cell-cell adhesion,6,5.257330825843541,True,Immune Response,Selected,2.2339817225252334e-24,10.774089732735945
+GO:0032677,regulation of interleukin-8 production,6,5.187153108068134,True,Immune Response,Selected,3.088223597862638e-13,7.8066935467322525
+GO:0046651,lymphocyte proliferation,6,4.959933495769862,True,Immune Response,Selected,1.0430423897411409e-19,9.62304618178104
+GO:0042742,defense response to bacterium,6,4.773582217672887,True,Immune Response,Selected,1.313860857908331e-19,9.591639534799473
+GO:0042113,B cell activation,6,4.6778805462717745,True,Immune Response,Selected,5.113935898827022e-12,7.4144573049766915
+GO:0032496,response to lipopolysaccharide,6,4.427563467468831,True,Lipid Metabolism,Selected,1.2814571870001737e-18,9.33748329766831
+GO:0070507,regulation of microtubule cytoskeleton organization,6,3.7314840843101753,True,Structural Stabilization,Selected,0.0011022337598366,-3.7183452467875697
+GO:0099003,vesicle-mediated transport in synapse,5,11.26154856555593,True,Synapse,Selected,1.0335096428569246e-39,-13.832458830024605
+GO:0048167,regulation of synaptic plasticity,5,8.718026884650595,True,Synapse,Selected,9.014625471794626e-22,-10.175559569818724
+GO:0007269,neurotransmitter secretion,5,8.623271515241125,True,Synapse,Selected,3.302165673168071e-20,-9.774225447095985
+GO:0006754,ATP biosynthetic process,5,7.413279410197262,True,Mitochondrial Metabolism,Selected,3.832728647165634e-22,-10.264008920386347
+GO:0050803,regulation of synapse structure or activity,5,7.338394969553442,True,Synapse,Selected,6.009149000816704e-14,-8.023342283205483
+GO:0007416,synapse assembly,5,7.247172597223731,True,Synapse,Selected,1.3563316713014934e-13,-7.917196805263781
+GO:0050806,positive regulation of synaptic transmission,5,6.876182917171099,True,Synapse,Selected,2.5102350302895974e-12,-7.5171057919303665
+GO:0032543,mitochondrial translation,5,6.586822921426987,True,Mitochondrial Metabolism;Proteostasis,Selected,5.2545438829795747e-20,-9.7200494709287
+GO:0000422,autophagy of mitochondrion,5,5.982668544107842,True,Mitochondrial Metabolism,Selected,2.532727525238854e-10,-6.831621704065192
+GO:0006364,rRNA processing,5,5.2471564865040605,True,Proteostasis,Selected,4.4572416356104e-16,-8.649291261990657
+GO:1903053,regulation of extracellular matrix organization,5,5.074319675402697,True,Structural Stabilization,Selected,3.410429929826492e-08,6.030001827187008
+GO:0048193,Golgi vesicle transport,5,4.894872518021309,True,Proteostasis,Selected,1.254581608583738e-09,-6.580422597582853
+GO:0070585,protein localization to mitochondrion,5,4.474147156498768,True,Mitochondrial Metabolism,Selected,1.783591306581653e-11,-7.232675681742019
+GO:0098876,vesicle-mediated transport to the plasma membrane,5,4.1889467113858245,True,Proteostasis,Selected,0.0003270741126014,-4.0564049678848715
+GO:0007162,negative regulation of cell adhesion,5,4.0498289634815166,True,Structural Stabilization,Selected,6.204725489480524e-11,7.0444537290510665
+GO:0006457,protein folding,5,4.008188867658218,True,Proteostasis,Selected,0.0007180486361553,-3.844452883715255
+GO:0046785,microtubule polymerization,5,3.5934591714318227,True,Structural Stabilization,Selected,0.0117860241574507,-2.9305816843227888
+GO:1901888,regulation of cell junction assembly,5,3.4626926764886474,True,Structural Stabilization,Selected,0.0065284808464356,-3.151438452007759
+GO:0071786,endoplasmic reticulum tubular network organization,5,3.2176908578209242,True,Proteostasis,Selected,0.0026593177697452,-3.4533893674155047
+GO:0043297,apical junction assembly,4,3.589849360702596,True,Structural Stabilization,Selected,1.4328512117259677e-05,4.831154228359168
+GO:0006644,phospholipid metabolic process,4,3.4312486594500458,True,Lipid Metabolism,Selected,0.0006063776073809,-3.8907481848088152
+GO:0006664,glycolipid metabolic process,4,3.032390859143285,True,Lipid Metabolism,Selected,0.0047826926266118,-3.256173972412939
+GO:0010875,positive regulation of cholesterol efflux,4,2.948190015244747,True,Lipid Metabolism,Selected,8.012405023530114e-05,4.4222361061599935
+GO:0071383,cellular response to steroid hormone stimulus,4,2.8681645066185437,True,Lipid Metabolism,Selected,0.0150388435732966,2.840083064802732
+GO:0010878,cholesterol storage,3,2.719675970166178,True,Lipid Metabolism,Selected,0.0091254548393651,3.027312742411647

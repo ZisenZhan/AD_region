@@ -1,0 +1,8 @@
+﻿scope,n_genes,effect_max_abs_error,significant,up,down
+whole_brain,36864,0,4334,2031,2303
+cerebellum,21501,0,3924,1633,2291
+occipital_visual,23808,0,2315,1238,1077
+frontal_prefrontal,36542,0,2407,1447,960
+temporal_neocortex,22790,0,4516,2089,2427
+hippocampus,28965,0,3553,2215,1338
+entorhinal_cortex,22955,0,2470,1251,1219

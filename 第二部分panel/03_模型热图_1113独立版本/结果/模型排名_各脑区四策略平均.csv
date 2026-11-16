@@ -1,0 +1,109 @@
+﻿region,model,internal_four_arm_mean,valid_internal_arms,external_four_arm_mean,rank,family,family_label,label,parameters,row_order
+frontal_prefrontal,M32,0.77453190412624318,4,0.828125,1,adaboost,AdaBoost,"AdaBoost | depth=1, n=200, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 200}",31
+frontal_prefrontal,M28,0.77294251107928735,4,0.82378472222222232,2,gradient_boosting,Gradient boosting,"Gradient boosting | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""min_samples_leaf"": 5, ""n_estimators"": 100}",27
+frontal_prefrontal,M31,0.77246266084069237,4,0.82378472222222232,3,adaboost,AdaBoost,"AdaBoost | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""n_estimators"": 100}",30
+frontal_prefrontal,M14,0.76669005171321891,4,0.84895833333333326,4,rbf_svm,RBF-SVM,"RBF-SVM | C=0.3, gamma=0.01","{""C"": 0.3, ""gamma"": 0.01}",13
+frontal_prefrontal,M33,0.76645245830021513,4,0.82465277777777779,5,adaboost,AdaBoost,"AdaBoost | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 200}",32
+frontal_prefrontal,M15,0.76515993850484831,4,0.85243055555555558,6,rbf_svm,RBF-SVM,"RBF-SVM | C=3, gamma=0.01","{""C"": 3.0, ""gamma"": 0.01}",14
+frontal_prefrontal,M29,0.76500702679799293,4,0.82118055555555558,7,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=100, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 100}",28
+frontal_prefrontal,M25,0.76498521255139895,4,0.828125,8,random_forest,Random forest,"Random forest | depth=3, leaf=2","{""max_depth"": 3, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",24
+frontal_prefrontal,M11,0.76441365838020559,4,0.85069444444444442,9,linear_svm,Linear SVM,Linear SVM | C=0.01,"{""C"": 0.01}",10
+frontal_prefrontal,M10,0.76385432578258983,4,0.85590277777777779,10,linear_svm,Linear SVM,Linear SVM | C=0.003,"{""C"": 0.003}",9
+frontal_prefrontal,M12,0.76361626117143722,4,0.85243055555555558,11,linear_svm,Linear SVM,Linear SVM | C=0.03,"{""C"": 0.03}",11
+frontal_prefrontal,M22,0.76194452555527525,4,0.85763888888888884,12,pls_logistic,PLS-logistic,PLS-logistic | components=1,"{""n_components"": 1}",21
+frontal_prefrontal,M13,0.76193581880254779,4,0.859375,13,rbf_svm,RBF-SVM,"RBF-SVM | C=0.1, gamma=0.01","{""C"": 0.1, ""gamma"": 0.01}",12
+frontal_prefrontal,M07,0.76152620327622134,4,0.85069444444444442,14,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.01, l1=0.25","{""C"": 0.01, ""l1_ratio"": 0.25}",6
+frontal_prefrontal,M01,0.76144895160406845,4,0.86284722222222221,15,logistic_l2,L2 logistic,L2 logistic | C=0.003,"{""C"": 0.003}",0
+frontal_prefrontal,M18,0.76134594465364236,4,0.86111111111111116,16,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=0.5,"{""shrinkage"": 0.5}",17
+frontal_prefrontal,M26,0.76123501335423183,4,0.83333333333333337,17,random_forest,Random forest,"Random forest | depth=6, leaf=5","{""max_depth"": 6, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 300}",25
+frontal_prefrontal,M23,0.76113699422997594,4,0.85590277777777779,18,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22
+frontal_prefrontal,M30,0.76098704774434034,4,0.81944444444444453,19,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 200}",29
+frontal_prefrontal,M03,0.76089336912061678,4,0.84722222222222221,20,logistic_l2,L2 logistic,L2 logistic | C=0.1,"{""C"": 0.1}",2
+frontal_prefrontal,M34,0.76071005697220417,4,0.83333333333333337,21,catboost,CatBoost,"CatBoost | depth=2, n=200, lr=0.05","{""depth"": 2, ""iterations"": 200, ""l2_leaf_reg"": 10, ""learning_rate"": 0.05}",33
+frontal_prefrontal,M02,0.76062681602218463,4,0.85069444444444442,22,logistic_l2,L2 logistic,L2 logistic | C=0.03,"{""C"": 0.03}",1
+frontal_prefrontal,M08,0.7590470308918531,4,0.84722222222222221,23,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.1, l1=0.5","{""C"": 0.1, ""l1_ratio"": 0.5}",7
+frontal_prefrontal,M17,0.75873120292150287,4,0.84548611111111116,24,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=auto,"{""shrinkage"": ""auto""}",16
+frontal_prefrontal,M35,0.75834137390839651,4,0.83333333333333337,25,catboost,CatBoost,"CatBoost | depth=3, n=300, lr=0.03","{""depth"": 3, ""iterations"": 300, ""l2_leaf_reg"": 10, ""learning_rate"": 0.03}",34
+frontal_prefrontal,M09,0.75807942544343776,4,0.84722222222222221,26,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.3, l1=0.75","{""C"": 0.3, ""l1_ratio"": 0.75}",8
+frontal_prefrontal,M05,0.75805995402051418,4,0.84548611111111116,27,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.3,"{""C"": 0.3}",4
+frontal_prefrontal,M19,0.75798326804377092,4,0.86458333333333326,28,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-11,"{""var_smoothing"": 1e-11}",18
+frontal_prefrontal,M20,0.75798326804377092,4,0.86458333333333326,28,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-09,"{""var_smoothing"": 1e-09}",19
+frontal_prefrontal,M21,0.75798326804377092,4,0.86458333333333326,28,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-07,"{""var_smoothing"": 1e-07}",20
+frontal_prefrontal,M24,0.75772753640346424,4,0.84548611111111116,31,pls_logistic,PLS-logistic,PLS-logistic | components=3,"{""n_components"": 3}",23
+frontal_prefrontal,M06,0.7565441973003717,4,0.84722222222222221,32,logistic_l1,L1 logistic / LASSO,L1 logistic | C=3,"{""C"": 3.0}",5
+frontal_prefrontal,M36,0.75464053327363201,4,0.82638888888888895,33,catboost,CatBoost,"CatBoost | depth=4, n=400, lr=0.02","{""depth"": 4, ""iterations"": 400, ""l2_leaf_reg"": 15, ""learning_rate"": 0.02}",35
+frontal_prefrontal,M04,0.75426713057461803,4,0.85069444444444442,34,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.03,"{""C"": 0.03}",3
+frontal_prefrontal,M16,0.74927338259634746,4,0.81770833333333337,35,rbf_svm,RBF-SVM,"RBF-SVM | C=1, gamma=scale","{""C"": 1.0, ""gamma"": ""scale""}",15
+frontal_prefrontal,M27,0.74252773961093976,4,0.81770833333333337,36,random_forest,Random forest,"Random forest | depth=None, leaf=2","{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",26
+hippocampus,M15,0.67612290181224011,4,0.74969400244798046,1,rbf_svm,RBF-SVM,"RBF-SVM | C=3, gamma=0.01","{""C"": 3.0, ""gamma"": 0.01}",14
+hippocampus,M23,0.67509980317884732,4,0.74632802937576503,2,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22
+hippocampus,M12,0.67443994169637556,4,0.74112607099143202,3,linear_svm,Linear SVM,Linear SVM | C=0.03,"{""C"": 0.03}",11
+hippocampus,M03,0.67391260955139631,4,0.74541003671970629,4,logistic_l2,L2 logistic,L2 logistic | C=0.1,"{""C"": 0.1}",2
+hippocampus,M14,0.67138503602198452,4,0.75030599755201954,5,rbf_svm,RBF-SVM,"RBF-SVM | C=0.3, gamma=0.01","{""C"": 0.3, ""gamma"": 0.01}",13
+hippocampus,M11,0.66973062425727869,4,0.7493880048959608,6,linear_svm,Linear SVM,Linear SVM | C=0.01,"{""C"": 0.01}",10
+hippocampus,M08,0.66931539661319073,4,0.74326805385556916,7,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.1, l1=0.5","{""C"": 0.1, ""l1_ratio"": 0.5}",7
+hippocampus,M18,0.66920723781937019,4,0.76223990208078329,8,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=0.5,"{""shrinkage"": 0.5}",17
+hippocampus,M17,0.66858474450386218,4,0.7441860465116279,9,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=auto,"{""shrinkage"": ""auto""}",16
+hippocampus,M02,0.66828417446524058,4,0.74571603427172573,10,logistic_l2,L2 logistic,L2 logistic | C=0.03,"{""C"": 0.03}",1
+hippocampus,M10,0.66822939876708265,4,0.75428396572827416,11,linear_svm,Linear SVM,Linear SVM | C=0.003,"{""C"": 0.003}",9
+hippocampus,M01,0.66790840389185979,4,0.76315789473684204,12,logistic_l2,L2 logistic,L2 logistic | C=0.003,"{""C"": 0.003}",0
+hippocampus,M09,0.66732304664289965,4,0.7441860465116279,13,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.3, l1=0.75","{""C"": 0.3, ""l1_ratio"": 0.75}",8
+hippocampus,M13,0.66729333778966127,4,0.75948592411260707,14,rbf_svm,RBF-SVM,"RBF-SVM | C=0.1, gamma=0.01","{""C"": 0.1, ""gamma"": 0.01}",12
+hippocampus,M05,0.66625468842840163,4,0.74449204406364755,15,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.3,"{""C"": 0.3}",4
+hippocampus,M06,0.66618853980986337,4,0.74541003671970629,16,logistic_l1,L1 logistic / LASSO,L1 logistic | C=3,"{""C"": 3.0}",5
+hippocampus,M24,0.66455873068924542,4,0.74265605875152996,17,pls_logistic,PLS-logistic,PLS-logistic | components=3,"{""n_components"": 3}",23
+hippocampus,M19,0.6612076648841354,4,0.76774785801713585,18,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-11,"{""var_smoothing"": 1e-11}",18
+hippocampus,M20,0.6612076648841354,4,0.76774785801713585,18,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-09,"{""var_smoothing"": 1e-09}",19
+hippocampus,M21,0.6612076648841354,4,0.76774785801713585,18,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-07,"{""var_smoothing"": 1e-07}",20
+hippocampus,M22,0.65767463235294121,4,0.77019583843329253,21,pls_logistic,PLS-logistic,PLS-logistic | components=1,"{""n_components"": 1}",21
+hippocampus,M36,0.65323988970588232,4,0.74694002447980412,22,catboost,CatBoost,"CatBoost | depth=4, n=400, lr=0.02","{""depth"": 4, ""iterations"": 400, ""l2_leaf_reg"": 15, ""learning_rate"": 0.02}",35
+hippocampus,M35,0.6516530191622103,4,0.74204406364749076,23,catboost,CatBoost,"CatBoost | depth=3, n=300, lr=0.03","{""depth"": 3, ""iterations"": 300, ""l2_leaf_reg"": 10, ""learning_rate"": 0.03}",34
+hippocampus,M26,0.64912614193404639,4,0.7435740514075887,24,random_forest,Random forest,"Random forest | depth=6, leaf=5","{""max_depth"": 6, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 300}",25
+hippocampus,M33,0.64689913844325608,4,0.72215422276621788,25,adaboost,AdaBoost,"AdaBoost | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 200}",32
+hippocampus,M34,0.64474014037433158,4,0.74663402692778458,26,catboost,CatBoost,"CatBoost | depth=2, n=200, lr=0.05","{""depth"": 2, ""iterations"": 200, ""l2_leaf_reg"": 10, ""learning_rate"": 0.05}",33
+hippocampus,M32,0.64431412006090316,4,0.71924724602203183,27,adaboost,AdaBoost,"AdaBoost | depth=1, n=200, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 200}",31
+hippocampus,M25,0.64345151886512175,4,0.73806609547123614,28,random_forest,Random forest,"Random forest | depth=3, leaf=2","{""max_depth"": 3, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",24
+hippocampus,M27,0.638189802436126,4,0.74326805385556916,29,random_forest,Random forest,"Random forest | depth=None, leaf=2","{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",26
+hippocampus,M30,0.63731629252079613,4,0.73944308445532436,30,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 200}",29
+hippocampus,M29,0.63698253212269751,4,0.74250305997552024,31,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=100, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 100}",28
+hippocampus,M16,0.6366679200089127,4,0.73592411260709911,32,rbf_svm,RBF-SVM,"RBF-SVM | C=1, gamma=scale","{""C"": 1.0, ""gamma"": ""scale""}",15
+hippocampus,M28,0.62992923258318478,4,0.71236230110159116,33,gradient_boosting,Gradient boosting,"Gradient boosting | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""min_samples_leaf"": 5, ""n_estimators"": 100}",27
+hippocampus,M31,0.62483706550802143,4,0.69966340269277849,34,adaboost,AdaBoost,"AdaBoost | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""n_estimators"": 100}",30
+hippocampus,M07,0.60224974933155084,4,0.59791921664626679,35,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.01, l1=0.25","{""C"": 0.01, ""l1_ratio"": 0.25}",6
+hippocampus,M04,0.60157410502079622,4,0.5844553243574051,36,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.03,"{""C"": 0.03}",3
+temporal_neocortex,M05,0.85183793527379059,4,0.82452707110241352,1,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.3,"{""C"": 0.3}",4
+temporal_neocortex,M08,0.8511697102604997,4,0.8238584474885845,2,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.1, l1=0.5","{""C"": 0.1, ""l1_ratio"": 0.5}",7
+temporal_neocortex,M09,0.85107274056353011,4,0.82333659491193734,3,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.3, l1=0.75","{""C"": 0.3, ""l1_ratio"": 0.75}",8
+temporal_neocortex,M23,0.85105525983519403,4,0.82289628180039143,4,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22
+temporal_neocortex,M24,0.85093284157363103,4,0.82317351598173516,5,pls_logistic,PLS-logistic,PLS-logistic | components=3,"{""n_components"": 3}",23
+temporal_neocortex,M17,0.85034132110579475,4,0.8238584474885845,6,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=auto,"{""shrinkage"": ""auto""}",16
+temporal_neocortex,M06,0.85019953482190325,4,0.8220156555772995,7,logistic_l1,L1 logistic / LASSO,L1 logistic | C=3,"{""C"": 3.0}",5
+temporal_neocortex,M03,0.84899997009569383,4,0.81997716894977168,8,logistic_l2,L2 logistic,L2 logistic | C=0.1,"{""C"": 0.1}",2
+temporal_neocortex,M07,0.84825279439128121,4,0.82687540769732548,9,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.01, l1=0.25","{""C"": 0.01, ""l1_ratio"": 0.25}",6
+temporal_neocortex,M02,0.846240178096757,4,0.81819960861056751,10,logistic_l2,L2 logistic,L2 logistic | C=0.03,"{""C"": 0.03}",1
+temporal_neocortex,M12,0.84617312267410949,4,0.82359752120026086,11,linear_svm,Linear SVM,Linear SVM | C=0.03,"{""C"": 0.03}",11
+temporal_neocortex,M14,0.84537951887293994,4,0.81872146118721467,12,rbf_svm,RBF-SVM,"RBF-SVM | C=0.3, gamma=0.01","{""C"": 0.3, ""gamma"": 0.01}",13
+temporal_neocortex,M11,0.84511451023391815,4,0.82152641878669264,13,linear_svm,Linear SVM,Linear SVM | C=0.01,"{""C"": 0.01}",10
+temporal_neocortex,M18,0.84494635499734183,4,0.81896607958251799,14,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=0.5,"{""shrinkage"": 0.5}",17
+temporal_neocortex,M13,0.84447522926634777,4,0.81640574037834313,15,rbf_svm,RBF-SVM,"RBF-SVM | C=0.1, gamma=0.01","{""C"": 0.1, ""gamma"": 0.01}",12
+temporal_neocortex,M15,0.84417273391812864,4,0.82395629484670574,16,rbf_svm,RBF-SVM,"RBF-SVM | C=3, gamma=0.01","{""C"": 3.0, ""gamma"": 0.01}",14
+temporal_neocortex,M10,0.84389296916533751,4,0.8171722113502935,17,linear_svm,Linear SVM,Linear SVM | C=0.003,"{""C"": 0.003}",9
+temporal_neocortex,M01,0.84389131113769267,4,0.81630789302022178,18,logistic_l2,L2 logistic,L2 logistic | C=0.003,"{""C"": 0.003}",0
+temporal_neocortex,M22,0.8417316254651781,4,0.81480756686236133,19,pls_logistic,PLS-logistic,PLS-logistic | components=1,"{""n_components"": 1}",21
+temporal_neocortex,M19,0.8414503023657629,4,0.81852576647097197,20,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-11,"{""var_smoothing"": 1e-11}",18
+temporal_neocortex,M20,0.8414503023657629,4,0.81852576647097197,20,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-09,"{""var_smoothing"": 1e-09}",19
+temporal_neocortex,M21,0.8414503023657629,4,0.81852576647097197,20,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-07,"{""var_smoothing"": 1e-07}",20
+temporal_neocortex,M33,0.84141164274322167,4,0.82026255707762552,23,adaboost,AdaBoost,"AdaBoost | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 200}",32
+temporal_neocortex,M32,0.84069295753588513,4,0.8208251793868232,24,adaboost,AdaBoost,"AdaBoost | depth=1, n=200, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 200}",31
+temporal_neocortex,M34,0.84068026980329613,4,0.81456294846705801,25,catboost,CatBoost,"CatBoost | depth=2, n=200, lr=0.05","{""depth"": 2, ""iterations"": 200, ""l2_leaf_reg"": 10, ""learning_rate"": 0.05}",33
+temporal_neocortex,M35,0.83818869617224878,4,0.81195368558382253,26,catboost,CatBoost,"CatBoost | depth=3, n=300, lr=0.03","{""depth"": 3, ""iterations"": 300, ""l2_leaf_reg"": 10, ""learning_rate"": 0.03}",34
+temporal_neocortex,M36,0.83735863902179686,4,0.81404109589041096,27,catboost,CatBoost,"CatBoost | depth=4, n=400, lr=0.02","{""depth"": 4, ""iterations"": 400, ""l2_leaf_reg"": 15, ""learning_rate"": 0.02}",35
+temporal_neocortex,M29,0.8333276315789474,4,0.81489726027397258,28,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=100, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 100}",28
+temporal_neocortex,M30,0.83330705741626798,4,0.81317677756033924,29,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 200}",29
+temporal_neocortex,M04,0.83017237838915481,4,0.82606001304631427,30,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.03,"{""C"": 0.03}",3
+temporal_neocortex,M26,0.82859473684210527,4,0.8159409654272668,31,random_forest,Random forest,"Random forest | depth=6, leaf=5","{""max_depth"": 6, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 300}",25
+temporal_neocortex,M31,0.82765771198830418,4,0.82661448140900196,32,adaboost,AdaBoost,"AdaBoost | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""n_estimators"": 100}",30
+temporal_neocortex,M27,0.82358163211057944,4,0.81021689497716898,33,random_forest,Random forest,"Random forest | depth=None, leaf=2","{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",26
+temporal_neocortex,M25,0.82329819245082403,4,0.81930854533594255,34,random_forest,Random forest,"Random forest | depth=3, leaf=2","{""max_depth"": 3, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",24
+temporal_neocortex,M28,0.82296184376661352,4,0.82348336594911931,35,gradient_boosting,Gradient boosting,"Gradient boosting | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""min_samples_leaf"": 5, ""n_estimators"": 100}",27
+temporal_neocortex,M16,0.81096384569377988,4,0.79321591650358769,36,rbf_svm,RBF-SVM,"RBF-SVM | C=1, gamma=scale","{""C"": 1.0, ""gamma"": ""scale""}",15

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+*.pkl
+*.joblib
+*.fastq
+*.fastq.gz
+*.bam
+*.h5ad
+*.h5
+*.hdf5
+04_上游输入与代码/
+分析输入/

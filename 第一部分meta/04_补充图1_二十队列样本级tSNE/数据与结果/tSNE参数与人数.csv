@@ -1,0 +1,21 @@
+﻿geo,n,AD,control,regions,common_genes,selected_genes,perplexity,seed,PC_components,PC_definition
+GSE118553,236,156,80,4,20550,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE122063,46,24,22,2,21313,2000,15,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE1297,31,22,9,1,12503,2000,10,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE132903,195,97,98,1,19052,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE150696,18,9,9,1,22361,2000,5.666666666666667,20261113,17,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE173954,18,8,10,1,22675,2000,5.666666666666667,20261113,17,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE185909,11,7,4,1,19235,2000,3.3333333333333335,20261113,10,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE203206,47,39,8,1,19267,2000,15.333333333333334,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE261817,24,12,12,1,42314,2000,7.666666666666667,20261113,23,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE29378,33,17,16,1,19268,2000,10.666666666666666,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE313307,107,55,52,1,42050,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE318560,11,6,5,1,42478,2000,3.3333333333333335,20261113,10,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE33000,467,310,157,1,18786,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE36980,80,33,47,3,18979,2000,26.333333333333332,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE37263,16,8,8,1,14761,2000,5,20261113,15,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE44768,230,129,101,1,18786,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE44771,230,129,101,1,18786,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE48350,185,55,130,3,19919,2000,30,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE53697,17,9,8,1,19051,2000,5.333333333333333,20261113,16,PCA of per-sample within-profile gene percentiles; no per-region column recalibration
+GSE84422,39,26,13,1,17945,2000,12.666666666666666,20261113,30,PCA of per-sample within-profile gene percentiles; no per-region column recalibration

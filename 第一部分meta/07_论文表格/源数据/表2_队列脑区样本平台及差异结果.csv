@@ -1,0 +1,29 @@
+﻿No,region,brain_region,geo,assay,platform,AD,control,source_GSM_records,cached_input_rows,analysed_donor_region_records,merged_records,merge_handling,genes_tested,nominal_DEGs,BH_DEGs,BH_up,BH_down,family_id,source_family_key
+1,frontal_prefrontal,Frontal/prefrontal,GSE118553,Microarray,GPL10558,40,22,63,63,62,1,Repeated donor records aggregated within region,20550,4050,507,337,170,F01,GSE118553
+2,frontal_prefrontal,Frontal/prefrontal,GSE122063,Microarray,GPL16699,12,11,50,23,23,27,Technical replicates/dye swaps averaged within donor and region,21313,6273,1625,589,1036,F02,GSE122063
+3,frontal_prefrontal,Frontal/prefrontal,GSE150696,Microarray,GPL17585,9,9,18,18,18,0,No within-unit merge in retained records,22361,15356,13511,6337,7174,F05,GSE150696
+4,frontal_prefrontal,Frontal/prefrontal,GSE185909,Microarray,GPL16025,7,4,25,25,11,14,Repeated donor records aggregated within region,19235,577,0,0,0,F08,GSE185909
+5,frontal_prefrontal,Frontal/prefrontal,GSE261817,RNA-seq,GPL24676,12,12,24,24,24,0,No within-unit merge in retained records,15880,4381,1099,411,688,F10,GSE261817
+6,frontal_prefrontal,Frontal/prefrontal,GSE313307,RNA-seq,GPL24676,55,52,107,107,107,0,No within-unit merge in retained records,33161,3982,1,1,0,F12,GSE313307
+7,frontal_prefrontal,Frontal/prefrontal,GSE33000,Microarray,GPL4372,310,157,467,467,467,0,No within-unit merge in retained records,18786,14998,14785,7342,7443,F14,GSE33000+GSE44768+GSE44770+GSE44771
+8,frontal_prefrontal,Frontal/prefrontal,GSE36980,Microarray,GPL6244,15,18,33,33,33,0,No within-unit merge in retained records,18979,1980,0,0,0,F07,GSE173954+GSE36980
+9,frontal_prefrontal,Frontal/prefrontal,GSE48350,Microarray,GPL570,21,48,69,69,69,0,No within-unit merge in retained records,19919,4014,510,382,128,F06,GSE159699+GSE48350
+10,frontal_prefrontal,Frontal/prefrontal,GSE53697,RNA-seq,GPL16791,9,8,17,17,17,0,No within-unit merge in retained records,18498,239,0,0,0,F16,GSE53697
+11,temporal_neocortex,Temporal neocortex,GSE118553,Microarray,GPL10558,45,25,83,83,70,13,Repeated donor records aggregated within region,20550,7859,5038,2639,2399,F01,GSE118553
+12,temporal_neocortex,Temporal neocortex,GSE122063,Microarray,GPL16699,12,11,50,23,23,27,Technical replicates/dye swaps averaged within donor and region,21313,5542,34,7,27,F02,GSE122063
+13,temporal_neocortex,Temporal neocortex,GSE132903,Microarray,GPL10558,97,98,195,195,195,0,No within-unit merge in retained records,19052,12646,12049,6236,5813,F03,GSE125583+GSE132903
+14,temporal_neocortex,Temporal neocortex,GSE36980,Microarray,GPL6244,10,19,29,29,29,0,No within-unit merge in retained records,18979,1788,0,0,0,F07,GSE173954+GSE36980
+15,temporal_neocortex,Temporal neocortex,GSE37263,Microarray,GPL5175,8,8,16,16,16,0,No within-unit merge in retained records,14761,3197,0,0,0,F15,GSE37263
+16,hippocampus,Hippocampus,GSE1297,Microarray,GPL96,22,9,31,31,31,0,No within-unit merge in retained records,12503,2916,0,0,0,F04,GSE1297
+17,hippocampus,Hippocampus,GSE173954,Microarray,GPL17586,8,10,18,18,18,0,No within-unit merge in retained records,22675,3362,3,1,2,F07,GSE173954+GSE36980
+18,hippocampus,Hippocampus,GSE29378,Microarray,GPL6947,17,16,63,63,33,30,CA1/CA3 subfield records aggregated by donor within the hippocampal group,19268,4012,1264,774,490,F11,GSE29378
+19,hippocampus,Hippocampus,GSE318560,RNA-seq,GPL24676,6,5,11,11,11,0,No within-unit merge in retained records,23287,5222,0,0,0,F13,GSE318560
+20,hippocampus,Hippocampus,GSE36980,Microarray,GPL6244,8,10,18,18,18,0,No within-unit merge in retained records,18979,5409,0,0,0,F07,GSE173954+GSE36980
+21,hippocampus,Hippocampus,GSE48350,Microarray,GPL570,19,43,62,62,62,0,No within-unit merge in retained records,19919,11814,10320,7331,2989,F06,GSE159699+GSE48350
+22,entorhinal_cortex,Entorhinal,GSE118553,Microarray,GPL10558,35,15,61,61,50,11,Repeated donor records aggregated within region,20550,8889,6716,3642,3074,F01,GSE118553
+23,entorhinal_cortex,Entorhinal,GSE48350,Microarray,GPL570,15,39,54,54,54,0,No within-unit merge in retained records,19919,3686,182,108,74,F06,GSE159699+GSE48350
+24,occipital_visual,Occipital/visual,GSE203206,RNA-seq,GPL20301,39,8,47,47,47,0,No within-unit merge in retained records,19267,5416,3,0,3,F09,GSE203206
+25,occipital_visual,Occipital/visual,GSE44771,Microarray,GPL4372,129,101,230,230,230,0,No within-unit merge in retained records,18786,12328,11719,5528,6191,F14,GSE33000+GSE44768+GSE44770+GSE44771
+26,occipital_visual,Occipital/visual,GSE84422,Microarray,GPL96 + GPL97,26,13,78,39,39,39,Matched GPL96/GPL97 measurements combined; each donor counted once,17945,1316,0,0,0,F17,GSE84422
+27,cerebellum,Cerebellum,GSE118553,Microarray,GPL10558,36,18,60,60,54,6,Repeated donor records aggregated within region,20550,2862,80,20,60,F01,GSE118553
+28,cerebellum,Cerebellum,GSE44768,Microarray,GPL4372,129,101,230,230,230,0,No within-unit merge in retained records,18786,9075,7894,3624,4270,F14,GSE33000+GSE44768+GSE44770+GSE44771

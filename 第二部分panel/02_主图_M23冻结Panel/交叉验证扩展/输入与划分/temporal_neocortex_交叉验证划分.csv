@@ -1,0 +1,5 @@
+﻿region,fold,test_GEO,train_GEOs,train_rows,train_AD,train_control,test_rows,shared_family_held_out
+temporal_neocortex,GSE118553,GSE118553,GSE122063;GSE36980;GSE37263,68,30,38,70,True
+temporal_neocortex,GSE122063,GSE122063,GSE118553;GSE36980;GSE37263,115,63,52,23,True
+temporal_neocortex,GSE37263,GSE37263,GSE118553;GSE122063;GSE36980,122,67,55,16,True
+temporal_neocortex,Hisayama,GSE36980,GSE118553;GSE122063;GSE37263,109,65,44,29,True

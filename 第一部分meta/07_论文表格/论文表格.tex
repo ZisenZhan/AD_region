@@ -1,0 +1,24 @@
+\documentclass[10pt,a4paper,landscape]{article}
+\usepackage[landscape,a4paper,margin=10mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\DeclareMathSizes{7.7}{7.7}{6}{5}
+\usepackage{array,tabularx,booktabs}
+\usepackage[hidelinks]{hyperref}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{1.12}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\begin{document}
+\begin{minipage}{180mm}
+\input{tex/functional_table.tex}
+\end{minipage}
+\clearpage
+\begin{minipage}{277mm}
+\input{tex/cohort_table.tex}
+\end{minipage}
+\end{document}

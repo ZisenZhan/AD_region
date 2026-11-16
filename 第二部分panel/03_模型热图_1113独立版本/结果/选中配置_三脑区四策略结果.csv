@@ -1,0 +1,13 @@
+﻿region,arm,model,internal_macro,families,n_test_GEOs,expected_test_GEOs,complete,external_GEO,external_auc,family,family_label,label,parameters,row_order,internal_rank,external_descriptive_rank
+frontal_prefrontal,A,M23,0.74209637287270858,9,9,9,True,GSE261817,0.88194444444444442,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,22,10
+frontal_prefrontal,B,M23,0.77585342672151791,9,9,9,True,GSE261817,0.84722222222222221,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,13,16
+frontal_prefrontal,C,M23,0.7497785270205729,9,9,9,True,GSE261817,0.86805555555555558,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,26,1
+frontal_prefrontal,D,M23,0.77681965030510414,9,9,9,True,GSE261817,0.82638888888888884,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,8,19
+hippocampus,A,M23,0.60638090463458116,4,5,5,True,GSE48350,0.81028151774785795,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,3,7
+hippocampus,B,M23,0.68822322489601906,4,5,5,True,GSE48350,0.80905752753977966,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,1,9
+hippocampus,C,M23,0.73540459744503861,4,5,5,True,GSE48350,0.69767441860465118,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,4,18
+hippocampus,D,M23,0.67039048573975046,4,5,5,True,GSE48350,0.66829865361077112,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,26,25
+temporal_neocortex,A,M23,0.82137309941520475,5,5,5,True,GSE125583,0.82309197651663413,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,11,10
+temporal_neocortex,B,M23,0.85130588782562455,5,5,5,True,GSE125583,0.81950424005218514,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,4,7
+temporal_neocortex,C,M23,0.87809930887825627,5,5,5,True,GSE125583,0.81930854533594255,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,2,17
+temporal_neocortex,D,M23,0.85344274322169045,5,5,5,True,GSE125583,0.82968036529680378,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22,3,23

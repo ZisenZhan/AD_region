@@ -1,0 +1,37 @@
+﻿model,A_internal_three_region_mean,rank_A_internal,family,family_label,label,parameters,row_order
+M12,0.72724362978457335,1,linear_svm,Linear SVM,Linear SVM | C=0.03,"{""C"": 0.03}",11
+M14,0.7241122712217759,2,rbf_svm,RBF-SVM,"RBF-SVM | C=0.3, gamma=0.01","{""C"": 0.3, ""gamma"": 0.01}",13
+M13,0.72354120751459672,3,rbf_svm,RBF-SVM,"RBF-SVM | C=0.1, gamma=0.01","{""C"": 0.1, ""gamma"": 0.01}",12
+M23,0.72328345897416479,4,pls_logistic,PLS-logistic,PLS-logistic | components=2,"{""n_components"": 2}",22
+M01,0.72292717078896451,5,logistic_l2,L2 logistic,L2 logistic | C=0.003,"{""C"": 0.003}",0
+M18,0.72290691647750849,6,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=0.5,"{""shrinkage"": 0.5}",17
+M15,0.72280885496126712,7,rbf_svm,RBF-SVM,"RBF-SVM | C=3, gamma=0.01","{""C"": 3.0, ""gamma"": 0.01}",14
+M10,0.72231266813719053,8,linear_svm,Linear SVM,Linear SVM | C=0.003,"{""C"": 0.003}",9
+M11,0.72219649478929826,9,linear_svm,Linear SVM,Linear SVM | C=0.01,"{""C"": 0.01}",10
+M03,0.72173744360177139,10,logistic_l2,L2 logistic,L2 logistic | C=0.1,"{""C"": 0.1}",2
+M17,0.72158239823117454,11,shrinkage_lda,Shrinkage LDA,Shrinkage LDA | lambda=auto,"{""shrinkage"": ""auto""}",16
+M22,0.72145477101279176,12,pls_logistic,PLS-logistic,PLS-logistic | components=1,"{""n_components"": 1}",21
+M19,0.72126429579425455,13,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-11,"{""var_smoothing"": 1e-11}",18
+M20,0.72126429579425455,13,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-09,"{""var_smoothing"": 1e-09}",19
+M21,0.72126429579425455,13,gaussian_nb,Gaussian naive Bayes,Gaussian NB | smoothing=1e-07,"{""var_smoothing"": 1e-07}",20
+M02,0.72026059784816765,16,logistic_l2,L2 logistic,L2 logistic | C=0.03,"{""C"": 0.03}",1
+M24,0.71917047361175113,17,pls_logistic,PLS-logistic,PLS-logistic | components=3,"{""n_components"": 3}",23
+M08,0.71843029675563219,18,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.1, l1=0.5","{""C"": 0.1, ""l1_ratio"": 0.5}",7
+M09,0.71701488699155203,19,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.3, l1=0.75","{""C"": 0.3, ""l1_ratio"": 0.75}",8
+M05,0.71544060110291807,20,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.3,"{""C"": 0.3}",4
+M06,0.712503493037691,21,logistic_l1,L1 logistic / LASSO,L1 logistic | C=3,"{""C"": 3.0}",5
+M32,0.71205974141400585,22,adaboost,AdaBoost,"AdaBoost | depth=1, n=200, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 200}",31
+M33,0.71059960155667679,23,adaboost,AdaBoost,"AdaBoost | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 200}",32
+M34,0.70494404633592167,24,catboost,CatBoost,"CatBoost | depth=2, n=200, lr=0.05","{""depth"": 2, ""iterations"": 200, ""l2_leaf_reg"": 10, ""learning_rate"": 0.05}",33
+M26,0.70230333477001705,25,random_forest,Random forest,"Random forest | depth=6, leaf=5","{""max_depth"": 6, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 300}",25
+M25,0.70061327705979648,26,random_forest,Random forest,"Random forest | depth=3, leaf=2","{""max_depth"": 3, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",24
+M16,0.70036052517144565,27,rbf_svm,RBF-SVM,"RBF-SVM | C=1, gamma=scale","{""C"": 1.0, ""gamma"": ""scale""}",15
+M36,0.70022380871505652,28,catboost,CatBoost,"CatBoost | depth=4, n=400, lr=0.02","{""depth"": 4, ""iterations"": 400, ""l2_leaf_reg"": 15, ""learning_rate"": 0.02}",35
+M35,0.69942150577365447,29,catboost,CatBoost,"CatBoost | depth=3, n=300, lr=0.03","{""depth"": 3, ""iterations"": 300, ""l2_leaf_reg"": 10, ""learning_rate"": 0.03}",34
+M27,0.69791150171228222,30,random_forest,Random forest,"Random forest | depth=None, leaf=2","{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 2, ""n_estimators"": 300}",26
+M31,0.6939915327642,31,adaboost,AdaBoost,"AdaBoost | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""n_estimators"": 100}",30
+M28,0.69302001845113947,32,gradient_boosting,Gradient boosting,"Gradient boosting | depth=1, n=100, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 1, ""min_samples_leaf"": 5, ""n_estimators"": 100}",27
+M30,0.69235316351202958,33,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=200, lr=0.03","{""learning_rate"": 0.03, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 200}",29
+M07,0.69025337868370629,34,logistic_elasticnet,Elastic-net logistic,"Elastic net | C=0.01, l1=0.25","{""C"": 0.01, ""l1_ratio"": 0.25}",6
+M29,0.68968664235596222,35,gradient_boosting,Gradient boosting,"Gradient boosting | depth=2, n=100, lr=0.05","{""learning_rate"": 0.05, ""max_depth"": 2, ""min_samples_leaf"": 5, ""n_estimators"": 100}",28
+M04,0.67253466781711302,36,logistic_l1,L1 logistic / LASSO,L1 logistic | C=0.03,"{""C"": 0.03}",3

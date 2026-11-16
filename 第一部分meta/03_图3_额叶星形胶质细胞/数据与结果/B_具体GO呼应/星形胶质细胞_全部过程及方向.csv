@@ -1,0 +1,36 @@
+﻿cell_type,go_id,template_n,donors,p,direction,fdr,term,domains,frontal_z,frontal_q,status
+Astrocyte,GO:0007159,56,80,1.80465047231296e-05,Up,0.0017960855075518,leukocyte cell-cell adhesion,Immune Response,10.774089732735945,2.233981722525233e-24,Concordant (FDR<0.05)
+Astrocyte,GO:0030098,67,80,1.47119867584781e-05,Up,0.0017960855075518,lymphocyte differentiation,Immune Response,9.688285823281188,6.726140852788975e-20,Concordant (FDR<0.05)
+Astrocyte,GO:0042113,40,80,1.92437732951987e-05,Up,0.0017960855075518,B cell activation,Immune Response,7.4144573049766915,5.113935898827022e-12,Concordant (FDR<0.05)
+Astrocyte,GO:0007162,43,80,2.64192855460988e-05,Up,0.0018493499882269,negative regulation of cell adhesion,Structural Stabilization,7.0444537290510665,6.204725489480524e-11,Concordant (FDR<0.05)
+Astrocyte,GO:1903053,19,80,0.0001100446993054,Up,0.0061625031611029,regulation of extracellular matrix organization,Structural Stabilization,6.030001827187008,3.410429929826492e-08,Concordant (FDR<0.05)
+Astrocyte,GO:0032496,46,80,0.0005019598212641,Up,0.0130927311212783,response to lipopolysaccharide,Lipid Metabolism,9.33748329766831,1.2814571870001737e-18,Concordant (FDR<0.05)
+Astrocyte,GO:0032677,13,80,0.0007019362447919,Up,0.0131028099027829,regulation of interleukin-8 production,Immune Response,7.8066935467322525,3.088223597862638e-13,Concordant (FDR<0.05)
+Astrocyte,GO:0071383,30,80,0.0007774954806159,Up,0.0136061709107785,cellular response to steroid hormone stimulus,Lipid Metabolism,2.840083064802732,0.0150388435732966,Concordant (FDR<0.05)
+Astrocyte,GO:0032543,13,80,0.0008539152622548,Up,0.0140644866724321,mitochondrial translation,Mitochondrial Metabolism;Proteostasis,-9.7200494709287,5.2545438829795747e-20,Concordant (FDR<0.05)
+Astrocyte,GO:0046651,43,80,0.0014578626310483,Up,0.0208602963320004,lymphocyte proliferation,Immune Response,9.62304618178104,1.0430423897411409e-19,Concordant (FDR<0.05)
+Astrocyte,GO:0007005,61,80,0.0022136692088702,Up,0.0281739717492572,mitochondrion organization,Mitochondrial Metabolism,-9.627518430356297,1.0430423897411409e-19,Concordant (FDR<0.05)
+Astrocyte,GO:0042742,35,80,0.0029668446300562,Up,0.0337378358069656,defense response to bacterium,Immune Response,9.591639534799471,1.3138608579083311e-19,Concordant (FDR<0.05)
+Astrocyte,GO:0006644,45,80,0.0110455750798791,Up,0.062425011066318,phospholipid metabolic process,Lipid Metabolism,-3.8907481848088152,0.0006063776073809,Not significant
+Astrocyte,GO:0050803,50,80,0.0179581877379846,Up,0.0763924678739381,regulation of synapse structure or activity,Synapse,-8.023342283205483,6.009149000816704e-14,Not significant
+Astrocyte,GO:0070585,13,80,0.0568069408979762,Up,0.165686910952431,protein localization to mitochondrion,Mitochondrial Metabolism,-7.232675681742019,1.7835913065816528e-11,Not significant
+Astrocyte,GO:0007416,39,80,0.0713740143802725,Up,0.188535132325248,synapse assembly,Synapse,-7.917196805263781,1.3563316713014934e-13,Not significant
+Astrocyte,GO:0006364,15,80,0.0744794503158018,Up,0.19251593147158,rRNA processing,Proteostasis,-8.649291261990657,4.4572416356104e-16,Not significant
+Astrocyte,GO:0006119,32,80,0.0844230150967713,Up,0.203779691612896,oxidative phosphorylation,Mitochondrial Metabolism,-12.145560299818024,7.710084648257555e-31,Not significant
+Astrocyte,GO:1901888,39,80,0.120097395175776,Up,0.275633365977191,regulation of cell junction assembly,Structural Stabilization,-3.151438452007759,0.0065284808464356,Not significant
+Astrocyte,GO:0006754,18,80,0.174156566792415,Up,0.350818983466735,ATP biosynthetic process,Mitochondrial Metabolism,-10.264008920386347,3.8327286471656343e-22,Not significant
+Astrocyte,GO:0098876,30,80,0.200009512946788,Up,0.380970500851026,vesicle-mediated transport to the plasma membrane,Proteostasis,-4.056404967884872,0.0003270741126014,Not significant
+Astrocyte,GO:0048167,27,80,0.255046340547819,Up,0.459506703703394,regulation of synaptic plasticity,Synapse,-10.175559569818724,9.014625471794626e-22,Not significant
+Astrocyte,GO:0000422,12,80,0.367936124671508,Up,0.595503554381632,autophagy of mitochondrion,Mitochondrial Metabolism,-6.831621704065192,2.5327275252388536e-10,Not significant
+Astrocyte,GO:0006457,19,80,0.367574615996283,Up,0.595503554381632,protein folding,Proteostasis,-3.844452883715255,0.0007180486361553,Not significant
+Astrocyte,GO:0048193,36,80,0.416849081743854,Up,0.649446314405108,Golgi vesicle transport,Proteostasis,-6.580422597582853,1.2545816085837381e-09,Not significant
+Astrocyte,GO:0050806,29,80,0.49265594361168,Up,0.753048809371304,positive regulation of synaptic transmission,Synapse,-7.5171057919303665,2.5102350302895974e-12,Not significant
+Astrocyte,GO:0070507,23,80,0.59761539990294,Up,0.858114420373452,regulation of microtubule cytoskeleton organization,Structural Stabilization,-3.7183452467875697,0.0011022337598366,Not significant
+Astrocyte,GO:0043297,10,80,0.630644991376616,Up,0.887339686359058,apical junction assembly,Structural Stabilization,4.831154228359168,1.4328512117259677e-05,Not significant
+Astrocyte,GO:0099003,57,80,0.666706737459108,Up,0.928745703923135,vesicle-mediated transport in synapse,Synapse,-13.832458830024605,1.0335096428569246e-39,Not significant
+Astrocyte,GO:0007269,36,80,0.702444558779957,Up,0.973685527021723,neurotransmitter secretion,Synapse,-9.774225447095985,3.302165673168071e-20,Not significant
+Astrocyte,GO:0046785,22,80,0.995551234011709,Down,1.0,microtubule polymerization,Structural Stabilization,-2.9305816843227888,0.0117860241574507,Not significant
+Astrocyte,GO:0071786,3,80,,,,endoplasmic reticulum tubular network organization,Proteostasis,-3.4533893674155047,0.0026593177697452,Not evaluable
+Astrocyte,GO:0006664,2,80,,,,glycolipid metabolic process,Lipid Metabolism,-3.256173972412939,0.0047826926266118,Not evaluable
+Astrocyte,GO:0010875,7,80,,,,positive regulation of cholesterol efflux,Lipid Metabolism,4.4222361061599935,8.012405023530114e-05,Not evaluable
+Astrocyte,GO:0010878,4,80,,,,cholesterol storage,Lipid Metabolism,3.027312742411647,0.0091254548393651,Not evaluable

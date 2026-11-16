@@ -1,0 +1,1881 @@
+﻿go_id,gene,weight
+Immune Response,TRAF3IP2,1
+Immune Response,TLR3,1
+Immune Response,TLR2,1
+Immune Response,NFIL3,1
+Immune Response,IL15,1
+Immune Response,TNFSF13B,1
+Immune Response,CTSH,1
+Immune Response,TLR4,1
+Immune Response,GBP2,1
+Immune Response,GPR183,1
+Immune Response,IGHA1,1
+Immune Response,HLA-DRA,1
+Immune Response,MICB,1
+Immune Response,HLA-DMB,1
+Immune Response,HLA-DRB1,1
+Immune Response,HLA-DPA1,1
+Immune Response,HLA-DRB3,1
+Immune Response,IGLV1-50,1
+Immune Response,IGHA2,1
+Immune Response,PIK3CG,1
+Immune Response,CTSS,1
+Immune Response,IL6,1
+Immune Response,FCGR2B,1
+Immune Response,SLPI,1
+Immune Response,CFP,1
+Immune Response,ULBP1,1
+Immune Response,LY86,1
+Immune Response,C7,1
+Immune Response,C8A,1
+Immune Response,CCR1,1
+Immune Response,CXCR4,1
+Immune Response,NOTCH1,1
+Immune Response,CCL15,1
+Immune Response,CCL22,1
+Immune Response,CCL2,1
+Immune Response,IL1R1,1
+Immune Response,TGFBR3,1
+Immune Response,OSM,1
+Immune Response,CXCL8,1
+Immune Response,TNFSF14,1
+Immune Response,CEBPB,1
+Immune Response,BMP6,1
+Immune Response,PTAFR,1
+Immune Response,TNFRSF1B,1
+Immune Response,LY75,1
+Immune Response,GEM,1
+Immune Response,KIR2DS5,1
+Immune Response,ITGB8,1
+Immune Response,DPP8,-1
+Immune Response,TCF12,1
+Immune Response,IGLL1,1
+Immune Response,PNP,1
+Immune Response,GPR65,1
+Immune Response,IL16,1
+Immune Response,CD164,1
+Immune Response,BMPR1A,1
+Immune Response,CEBPG,1
+Immune Response,AZGP1,1
+Immune Response,TRIM22,1
+Immune Response,AXL,1
+Immune Response,ANXA1,1
+Immune Response,FCN1,1
+Immune Response,MAVS,1
+Immune Response,PYCARD,1
+Immune Response,GBP5,1
+Immune Response,SYK,1
+Immune Response,CLEC7A,1
+Immune Response,TYROBP,1
+Immune Response,IGHG1,1
+Immune Response,IGHM,1
+Immune Response,TAP1,1
+Immune Response,BTN3A2,1
+Immune Response,CSK,1
+Immune Response,LAT2,1
+Immune Response,CARD9,1
+Immune Response,HAVCR2,1
+Immune Response,OTUB1,-1
+Immune Response,PRKCE,-1
+Immune Response,LILRA2,1
+Immune Response,BCL6,1
+Immune Response,ATM,1
+Immune Response,SERINC3,-1
+Immune Response,IRF7,1
+Immune Response,USP27X,-1
+Immune Response,NLRP2B,1
+Immune Response,LILRA5,1
+Immune Response,PSMB9,1
+Immune Response,C4B,1
+Immune Response,PSMB8,1
+Immune Response,CD177,1
+Immune Response,PARP14,1
+Immune Response,CSF1R,1
+Immune Response,PGLYRP1,1
+Immune Response,TRIM38,1
+Immune Response,TICAM2,1
+Immune Response,IFIT2,1
+Immune Response,DHX36,-1
+Immune Response,ZBTB1,1
+Immune Response,ISG20,1
+Immune Response,PSMA1,-1
+Immune Response,HERC5,1
+Immune Response,G3BP1,1
+Immune Response,G3BP2,-1
+Immune Response,LY96,1
+Immune Response,IRF1,1
+Immune Response,ADSS2,-1
+Immune Response,ZC3HAV1,1
+Immune Response,HMGB3,-1
+Immune Response,IFITM1,1
+Immune Response,BST2,1
+Immune Response,GAPDH,-1
+Immune Response,TRIM56,1
+Immune Response,CD14,1
+Immune Response,DDX1,-1
+Immune Response,GPER1,1
+Immune Response,TRIM8,1
+Immune Response,RNF135,1
+Immune Response,EIF2AK2,1
+Immune Response,INPPL1,1
+Immune Response,TIFA,1
+Immune Response,LGALS9,1
+Immune Response,GBP3,1
+Immune Response,GBP4,1
+Immune Response,CARD8,1
+Immune Response,PARP9,1
+Immune Response,DTX3L,1
+Immune Response,SUSD4,-1
+Immune Response,C1S,1
+Immune Response,CD300LF,1
+Immune Response,RUBCN,1
+Immune Response,ATP1B1,-1
+Immune Response,CFH,1
+Immune Response,FCGR2A,1
+Immune Response,IKBKB,1
+Immune Response,RNASE3,1
+Immune Response,PJA2,-1
+Immune Response,NFKB1,1
+Immune Response,ANG,1
+Immune Response,YES1,1
+Immune Response,DEFB105A,-1
+Immune Response,TRIM48,-1
+Immune Response,FBXO9,-1
+Immune Response,NEDD4,1
+Immune Response,TRIM34,1
+Immune Response,TRIM43,-1
+Immune Response,NQO1,1
+Immune Response,NCF2,1
+Immune Response,ITGB2,1
+Immune Response,AGER,1
+Immune Response,TUSC2,-1
+Immune Response,P2RX7,1
+Immune Response,TNFAIP3,1
+Immune Response,NINJ1,1
+Immune Response,NFKBIZ,1
+Immune Response,ITGAL,1
+Immune Response,C3AR1,1
+Immune Response,SERPINA3,1
+Immune Response,NFATC4,1
+Immune Response,PARP4,1
+Immune Response,FOS,1
+Immune Response,PTGER1,1
+Immune Response,PLAA,-1
+Immune Response,HYAL1,1
+Immune Response,ADM,1
+Immune Response,CAMK1D,-1
+Immune Response,S1PR3,1
+Immune Response,CRHBP,-1
+Immune Response,TAB2,1
+Immune Response,MAPKAPK2,1
+Immune Response,TNFAIP6,1
+Immune Response,LOXL3,1
+Immune Response,HDAC9,-1
+Immune Response,TNFRSF1A,1
+Immune Response,TCIRG1,1
+Immune Response,SCG2,-1
+Immune Response,PRKCZ,-1
+Immune Response,EPOR,1
+Immune Response,LEPR,1
+Immune Response,IL6ST,1
+Immune Response,IL17RB,1
+Immune Response,EBI3,1
+Immune Response,FZD4,1
+Immune Response,CLCF1,1
+Immune Response,PRKACA,-1
+Immune Response,CAV1,1
+Immune Response,STAT4,-1
+Immune Response,STAT5A,1
+Immune Response,IL10RA,1
+Immune Response,TREM2,1
+Immune Response,H2BC7,1
+Immune Response,H2BC11,1
+Immune Response,SLAMF8,1
+Immune Response,BCL3,1
+Immune Response,RBPJ,1
+Immune Response,DEFB129,1
+Immune Response,SLC9A9,1
+Immune Response,RBCK1,1
+Immune Response,CASP7,1
+Immune Response,RAB14,-1
+Immune Response,VGF,-1
+Immune Response,DROSHA,-1
+Immune Response,SEH1L,-1
+Immune Response,DLL1,1
+Immune Response,TGFB2,1
+Immune Response,KLF3,1
+Immune Response,CIAPIN1,-1
+Immune Response,ROGDI,-1
+Immune Response,FLCN,1
+Immune Response,ASXL1,1
+Immune Response,KDR,1
+Immune Response,ANGPT1,1
+Immune Response,TTC7A,1
+Immune Response,ZFP36L2,1
+Immune Response,RUNX3,1
+Immune Response,PTPRC,1
+Immune Response,POPDC1,1
+Immune Response,WDR7,-1
+Immune Response,DOCK1,1
+Immune Response,RBM47,1
+Immune Response,PLEK,1
+Immune Response,F8,-1
+Immune Response,SAA4,-1
+Immune Response,FN1,1
+Immune Response,CFLAR,1
+Immune Response,GATA1,1
+Immune Response,SLC25A5,-1
+Immune Response,SLC1A5,1
+Immune Response,KCNQ1,1
+Immune Response,PRDX2,-1
+Immune Response,RAF1,1
+Immune Response,SBNO2,1
+Immune Response,TOB2,1
+Immune Response,CCN4,1
+Immune Response,JUNB,1
+Immune Response,SNX10,-1
+Immune Response,MITF,1
+Immune Response,GPI,-1
+Immune Response,FOXJ1,1
+Immune Response,PSMB10,-1
+Immune Response,RBM15,1
+Immune Response,PCID2,1
+Immune Response,SLC11A2,-1
+Immune Response,KLF2,1
+Immune Response,SNAI2,1
+Immune Response,SFRP2,1
+Immune Response,EP300,1
+Immune Response,ZFP36,1
+Immune Response,MSH2,-1
+Immune Response,MSH6,1
+Immune Response,SWAP70,1
+Immune Response,SOCS3,1
+Immune Response,MAF,1
+Immune Response,LEF1,1
+Immune Response,TMEM176B,1
+Immune Response,UBE2N,-1
+Immune Response,DOCK2,1
+Immune Response,ITPKB,1
+Immune Response,GAPT,1
+Immune Response,ACSL1,1
+Immune Response,LRP5,1
+Immune Response,ADA,1
+Immune Response,KLHL6,1
+Immune Response,MFNG,1
+Immune Response,SCRIB,1
+Immune Response,HLX,1
+Immune Response,PAK1,-1
+Immune Response,LBR,1
+Immune Response,ANXA2,1
+Immune Response,XKR8,1
+Immune Response,PRSS3,-1
+Immune Response,JAM3,1
+Immune Response,RAB27A,1
+Immune Response,RO60,1
+Immune Response,TCF3,1
+Immune Response,DNAJA3,-1
+Immune Response,RORA,1
+Immune Response,PECAM1,1
+Immune Response,CTNNBIP1,-1
+Immune Response,LDLR,1
+Immune Response,STK3,1
+Immune Response,VAMP2,-1
+Immune Response,PRCP,1
+Immune Response,ENTREP1,1
+Immune Response,ATP11C,1
+Immune Response,SNAP23,1
+Immune Response,ANO6,1
+Immune Response,DOCK8,1
+Immune Response,ITGB1,1
+Immune Response,NDFIP1,-1
+Immune Response,LRRC32,1
+Immune Response,CLDN1,1
+Immune Response,GPS2,1
+Immune Response,BIRC7,1
+Immune Response,PELI3,-1
+Immune Response,MSN,1
+Immune Response,ITGA5,1
+Immune Response,ROCK1,1
+Immune Response,EZR,1
+Immune Response,FERMT3,1
+Immune Response,CD200,-1
+Immune Response,HHEX,1
+Immune Response,ADTRP,-1
+Immune Response,BECN1,-1
+Immune Response,VEZF1,1
+Immune Response,EPS8,1
+Immune Response,PADI2,1
+Immune Response,RNMT,-1
+Immune Response,INA,-1
+Immune Response,MRAS,1
+Immune Response,BCAT2,1
+Immune Response,CTH,-1
+Immune Response,RFX2,1
+Immune Response,SOX17,1
+Immune Response,TLE4,1
+Immune Response,MRPL15,-1
+Immune Response,MAT2A,1
+Immune Response,GPR171,1
+Immune Response,PIK3AP1,1
+Immune Response,MRC1,1
+Immune Response,CD58,1
+Immune Response,GSN,1
+Immune Response,CDC42EP4,1
+Immune Response,STXBP1,-1
+Immune Response,STXBP4,1
+Immune Response,SNCA,-1
+Immune Response,CXCL16,1
+Immune Response,CITED1,-1
+Immune Response,IFNGR1,1
+Immune Response,TOMM70,-1
+Immune Response,NCOA6,1
+Immune Response,PRKX,1
+Immune Response,KAT6A,1
+Immune Response,SNRK,-1
+Immune Response,CD93,1
+Immune Response,PREX1,1
+Immune Response,ADORA2B,1
+Immune Response,RHOH,1
+Immune Response,NDRG1,1
+Immune Response,MTHFD1,-1
+Immune Response,BIRC3,1
+Immune Response,GAP43,-1
+Immune Response,LAMB2,1
+Immune Response,GFAP,1
+Immune Response,FES,1
+Immune Response,NFKBIA,1
+Immune Response,MEGF10,1
+Immune Response,RAPGEF3,1
+Immune Response,SIPA1,1
+Immune Response,RAB6A,-1
+Immune Response,RABL3,-1
+Immune Response,KLF6,1
+Immune Response,FZD8,1
+Immune Response,ZFP36L1,1
+Immune Response,FZD7,1
+Immune Response,BTNL9,1
+Immune Response,NRARP,-1
+Immune Response,EGR1,-1
+Immune Response,PPP3CA,-1
+Immune Response,RAB29,1
+Immune Response,SLAMF9,1
+Immune Response,SLC39A3,-1
+Immune Response,CHST3,1
+Immune Response,PDE5A,1
+Immune Response,CAMLG,-1
+Immune Response,TUBB4B,-1
+Immune Response,LCP1,1
+Immune Response,HPRT1,-1
+Immune Response,APBB1IP,1
+Immune Response,FGL2,1
+Immune Response,CDH26,1
+Immune Response,SOX13,1
+Immune Response,ADCY7,1
+Immune Response,SLC39A10,-1
+Immune Response,CDKN2A,1
+Immune Response,SH3KBP1,-1
+Immune Response,GPNMB,1
+Immune Response,PHF10,1
+Immune Response,ACTL6A,1
+Immune Response,ELF1,1
+Immune Response,SH3RF1,-1
+Immune Response,IGF2,1
+Immune Response,EGR3,-1
+Immune Response,GLI2,1
+Immune Response,RGCC,1
+Immune Response,RNF128,-1
+Immune Response,SRGN,1
+Immune Response,HILPDA,1
+Immune Response,SCAMP5,-1
+Immune Response,MAPK9,-1
+Immune Response,GPSM3,1
+Immune Response,LITAF,1
+Immune Response,IFT54,-1
+Immune Response,CAPN2,1
+Immune Response,HSPA1A,1
+Immune Response,HGF,1
+Immune Response,PLCB1,-1
+Immune Response,ISL1,1
+Immune Response,ZBTB20,1
+Immune Response,TMED10,1
+Immune Response,HSPB1,1
+Immune Response,CD33,1
+Immune Response,MAPKBP1,1
+Immune Response,HDAC7,1
+Immune Response,HOMER3,1
+Immune Response,IQGAP1,1
+Immune Response,ZBTB6,1
+Immune Response,BCL6B,1
+Immune Response,SYT7,-1
+Immune Response,NCF4,1
+Immune Response,ABCA7,1
+Immune Response,CD302,1
+Immune Response,ELMO1,-1
+Immune Response,C1QB,1
+Immune Response,MAPK10,-1
+Immune Response,MSR1,1
+Immune Response,ABCA1,1
+Immune Response,BIN2,1
+Immune Response,ADCY1,-1
+Immune Response,SMAD4,1
+Immune Response,YAP1,1
+Immune Response,CD68,1
+Immune Response,PNMA1,-1
+Immune Response,NUPR1,1
+Immune Response,B4GALT1,1
+Immune Response,PCSK1,-1
+Immune Response,INHBB,1
+Immune Response,ATP5F1B,-1
+Immune Response,NFATC1,1
+Immune Response,ERBIN,1
+Immune Response,GPR4,1
+Immune Response,CKLF,1
+Immune Response,ITGA6,1
+Immune Response,FLT1,1
+Immune Response,MLKL,1
+Immune Response,DNAJC3,1
+Immune Response,DDIT4,1
+Immune Response,ZNF175,1
+Immune Response,BNIP3,-1
+Immune Response,DCLK1,-1
+Immune Response,EEF1G,1
+Immune Response,TRIM44,-1
+Immune Response,ERCC6,-1
+Lipid Metabolism,SNCA,-1
+Lipid Metabolism,TLR2,1
+Lipid Metabolism,P2RX7,1
+Lipid Metabolism,TLR4,1
+Lipid Metabolism,NFKBIZ,1
+Lipid Metabolism,SLPI,1
+Lipid Metabolism,LY96,1
+Lipid Metabolism,CD14,1
+Lipid Metabolism,LGALS9,1
+Lipid Metabolism,NOTCH1,1
+Lipid Metabolism,CEBPB,1
+Lipid Metabolism,FOS,1
+Lipid Metabolism,PTGER1,1
+Lipid Metabolism,PTAFR,1
+Lipid Metabolism,TNFRSF1B,1
+Lipid Metabolism,ADM,1
+Lipid Metabolism,TAB2,1
+Lipid Metabolism,MAPKAPK2,1
+Lipid Metabolism,IL10RA,1
+Lipid Metabolism,NFKBIA,1
+Lipid Metabolism,PRDX2,-1
+Lipid Metabolism,NQO1,1
+Lipid Metabolism,GJB2,1
+Lipid Metabolism,CLDN1,1
+Lipid Metabolism,LITAF,1
+Lipid Metabolism,PCSK1,-1
+Lipid Metabolism,CITED1,-1
+Lipid Metabolism,ERBIN,1
+Lipid Metabolism,AXL,1
+Lipid Metabolism,TNFAIP3,1
+Lipid Metabolism,PYCARD,1
+Lipid Metabolism,GBP2,1
+Lipid Metabolism,GBP5,1
+Lipid Metabolism,HAVCR2,1
+Lipid Metabolism,SBNO2,1
+Lipid Metabolism,IL6,1
+Lipid Metabolism,TICAM2,1
+Lipid Metabolism,GBP3,1
+Lipid Metabolism,CD68,1
+Lipid Metabolism,CCL2,1
+Lipid Metabolism,CXCL8,1
+Lipid Metabolism,PLAA,-1
+Lipid Metabolism,NFKB1,1
+Lipid Metabolism,ZFP36,1
+Lipid Metabolism,GATA1,1
+Lipid Metabolism,CASP7,1
+Lipid Metabolism,MRC1,1
+Lipid Metabolism,CAPN2,1
+Lipid Metabolism,ABCA1,1
+Lipid Metabolism,PPM1E,-1
+Lipid Metabolism,PLSCR4,1
+Lipid Metabolism,LDOC1,-1
+Lipid Metabolism,PIK3CG,1
+Lipid Metabolism,CSF1R,1
+Lipid Metabolism,PLCB1,-1
+Lipid Metabolism,EZR,1
+Lipid Metabolism,INPP5F,-1
+Lipid Metabolism,PI4KA,-1
+Lipid Metabolism,PLCE1,1
+Lipid Metabolism,PLCB3,1
+Lipid Metabolism,FGFR1,1
+Lipid Metabolism,CA8,1
+Lipid Metabolism,STARD3,1
+Lipid Metabolism,ABCG1,1
+Lipid Metabolism,C2CD2L,-1
+Lipid Metabolism,MTTP,1
+Lipid Metabolism,PITPNB,-1
+Lipid Metabolism,PITPNA,-1
+Lipid Metabolism,PRELID3A,1
+Lipid Metabolism,TREM2,1
+Lipid Metabolism,ZBTB20,1
+Lipid Metabolism,FITM2,-1
+Lipid Metabolism,LIPG,1
+Lipid Metabolism,APOC1,1
+Lipid Metabolism,ELOVL5,1
+Lipid Metabolism,ALOX15B,1
+Lipid Metabolism,PLAAT4,1
+Lipid Metabolism,CAT,1
+Lipid Metabolism,FOXO1,1
+Lipid Metabolism,ANXA1,1
+Lipid Metabolism,ZFP36L2,1
+Lipid Metabolism,ZFP36L1,1
+Lipid Metabolism,ISL1,1
+Lipid Metabolism,FAM107A,1
+Lipid Metabolism,STC1,1
+Lipid Metabolism,PTGFRN,-1
+Lipid Metabolism,PADI2,1
+Lipid Metabolism,DDX5,-1
+Lipid Metabolism,RBFOX2,-1
+Lipid Metabolism,NEFL,-1
+Lipid Metabolism,ACSL1,1
+Lipid Metabolism,ACSL3,-1
+Lipid Metabolism,AKR1C3,1
+Lipid Metabolism,ACAD11,1
+Lipid Metabolism,SPP1,1
+Lipid Metabolism,PHEX,1
+Lipid Metabolism,STX2,1
+Lipid Metabolism,PRKACA,-1
+Lipid Metabolism,ABCA7,1
+Lipid Metabolism,PRKACB,-1
+Lipid Metabolism,NEDD4,1
+Lipid Metabolism,GOT1,-1
+Lipid Metabolism,HSPA1A,1
+Lipid Metabolism,NPC1,1
+Lipid Metabolism,ADTRP,-1
+Lipid Metabolism,HSPA8,-1
+Lipid Metabolism,ATP1A3,-1
+Lipid Metabolism,ATP1A1,-1
+Lipid Metabolism,MGARP,1
+Lipid Metabolism,LDLR,1
+Lipid Metabolism,FES,1
+Lipid Metabolism,LCLAT1,-1
+Lipid Metabolism,MSN,1
+Lipid Metabolism,ROCK2,-1
+Lipid Metabolism,ELK1,1
+Lipid Metabolism,CPT1B,1
+Lipid Metabolism,SLC25A20,1
+Lipid Metabolism,SGK1,1
+Lipid Metabolism,ANXA2,1
+Lipid Metabolism,S100A10,1
+Lipid Metabolism,PEX11A,1
+Lipid Metabolism,PEX16,-1
+Lipid Metabolism,CLN3,1
+Lipid Metabolism,DOCK2,1
+Lipid Metabolism,RORA,1
+Lipid Metabolism,CLIP3,-1
+Lipid Metabolism,GPER1,1
+Lipid Metabolism,SYK,1
+Lipid Metabolism,FZD4,1
+Lipid Metabolism,EEF1A2,-1
+Lipid Metabolism,RABL3,-1
+Lipid Metabolism,BMP6,1
+Lipid Metabolism,KCNQ1,1
+Lipid Metabolism,RBL2,1
+Lipid Metabolism,MSR1,1
+Lipid Metabolism,LDLRAP1,1
+Lipid Metabolism,ITGB2,1
+Lipid Metabolism,ITGB1,1
+Lipid Metabolism,CD9,1
+Lipid Metabolism,CES1,1
+Lipid Metabolism,ANO6,1
+Lipid Metabolism,LRP10,1
+Lipid Metabolism,ATP11C,1
+Lipid Metabolism,ATP8A2,-1
+Lipid Metabolism,OSBPL11,1
+Lipid Metabolism,APOBR,1
+Lipid Metabolism,ARV1,-1
+Lipid Metabolism,ATP9A,-1
+Lipid Metabolism,CAV1,1
+Lipid Metabolism,SLCO3A1,1
+Lipid Metabolism,SLCO4A1,1
+Lipid Metabolism,SYT7,-1
+Lipid Metabolism,UNC119,1
+Lipid Metabolism,HILPDA,1
+Lipid Metabolism,HSD17B12,-1
+Lipid Metabolism,ACSM1,1
+Lipid Metabolism,NDUFAB1,-1
+Lipid Metabolism,ITPKB,1
+Lipid Metabolism,TTC7A,1
+Lipid Metabolism,SOCS3,1
+Lipid Metabolism,PIP5K1B,-1
+Lipid Metabolism,IP6K3,1
+Lipid Metabolism,IMPA2,1
+Lipid Metabolism,BPNT2,-1
+Lipid Metabolism,LBR,1
+Lipid Metabolism,LSS,1
+Lipid Metabolism,FDFT1,1
+Lipid Metabolism,HMGCS1,-1
+Lipid Metabolism,MVK,-1
+Lipid Metabolism,INPPL1,1
+Lipid Metabolism,FGF2,1
+Lipid Metabolism,SYNJ1,-1
+Lipid Metabolism,TPTE2,-1
+Lipid Metabolism,ATM,1
+Lipid Metabolism,BECN1,-1
+Lipid Metabolism,SPTLC3,1
+Lipid Metabolism,CERS2,1
+Lipid Metabolism,PLPP2,1
+Lipid Metabolism,KDSR,1
+Lipid Metabolism,PLPP1,1
+Lipid Metabolism,ACER1,1
+Lipid Metabolism,PRKD3,1
+Lipid Metabolism,ABHD3,1
+Lipid Metabolism,HSD17B1,1
+Lipid Metabolism,DHRS11,-1
+Lipid Metabolism,ACSS3,1
+Lipid Metabolism,HMGCLL1,-1
+Lipid Metabolism,MID1IP1,1
+Lipid Metabolism,THRSP,1
+Lipid Metabolism,ANG,1
+Lipid Metabolism,AJUBA,1
+Lipid Metabolism,B4GALT6,-1
+Lipid Metabolism,ACOT7,-1
+Lipid Metabolism,LHB,1
+Lipid Metabolism,SNAI2,1
+Lipid Metabolism,CHP1,-1
+Lipid Metabolism,EGR1,-1
+Lipid Metabolism,HTR2A,-1
+Lipid Metabolism,IDH1,1
+Lipid Metabolism,ACSS1,1
+Lipid Metabolism,PAM,-1
+Lipid Metabolism,CYP39A1,1
+Lipid Metabolism,TNXB,1
+Lipid Metabolism,MORC2,1
+Lipid Metabolism,PER2,-1
+Lipid Metabolism,CYP2J2,1
+Lipid Metabolism,ACSF2,1
+Lipid Metabolism,UGT1A8,1
+Lipid Metabolism,UGT1A7,1
+Lipid Metabolism,ACADSB,-1
+Lipid Metabolism,ECHDC3,1
+Lipid Metabolism,ECHDC2,1
+Lipid Metabolism,ACOT6,1
+Lipid Metabolism,B4GALT1,1
+Lipid Metabolism,PLBD1,1
+Lipid Metabolism,ATP5F1A,-1
+Lipid Metabolism,ATP5F1B,-1
+Lipid Metabolism,BCAT2,1
+Lipid Metabolism,CTH,-1
+Lipid Metabolism,NPHP3,1
+Lipid Metabolism,AKR1C1,1
+Lipid Metabolism,PLCD3,1
+Lipid Metabolism,PLB1,1
+Lipid Metabolism,OXCT1,-1
+Lipid Metabolism,BDH2,1
+Lipid Metabolism,AIG1,-1
+Lipid Metabolism,SULT4A1,-1
+Lipid Metabolism,GDPD3,1
+Lipid Metabolism,GPR31,1
+Lipid Metabolism,PLD6,-1
+Lipid Metabolism,SULT1E1,1
+Lipid Metabolism,GPCPD1,-1
+Lipid Metabolism,HSD11B2,1
+Lipid Metabolism,PNPLA6,1
+Lipid Metabolism,CES2,-1
+Lipid Metabolism,UGT2A1,1
+Lipid Metabolism,PTPRN2,-1
+Lipid Metabolism,FAR2,-1
+Lipid Metabolism,PRLH,1
+Lipid Metabolism,LEPR,1
+Lipid Metabolism,LRP5,1
+Lipid Metabolism,PRKCE,-1
+Lipid Metabolism,SERPINA3,1
+Lipid Metabolism,GPS2,1
+Lipid Metabolism,PLEK,1
+Lipid Metabolism,TNFRSF1A,1
+Lipid Metabolism,PEX2,1
+Lipid Metabolism,ITGB8,1
+Lipid Metabolism,DNAJC19,-1
+Lipid Metabolism,SESN2,1
+Lipid Metabolism,AUH,-1
+Lipid Metabolism,NUDT19,-1
+Lipid Metabolism,ABHD12B,-1
+Lipid Metabolism,FMO2,1
+Lipid Metabolism,HDAC9,-1
+Lipid Metabolism,MED13,1
+Lipid Metabolism,STX12,-1
+Lipid Metabolism,PTCH1,1
+Lipid Metabolism,RXRA,1
+Lipid Metabolism,INHBB,1
+Lipid Metabolism,XKR8,1
+Mitochondrial Metabolism,DNM1L,-1
+Mitochondrial Metabolism,CHCHD10,-1
+Mitochondrial Metabolism,DNAJA3,-1
+Mitochondrial Metabolism,DNA2,1
+Mitochondrial Metabolism,TOMM70,-1
+Mitochondrial Metabolism,TIMM50,-1
+Mitochondrial Metabolism,DNAJC19,-1
+Mitochondrial Metabolism,TOMM20,-1
+Mitochondrial Metabolism,TOMM40L,-1
+Mitochondrial Metabolism,GPS2,1
+Mitochondrial Metabolism,BECN1,-1
+Mitochondrial Metabolism,SESN2,1
+Mitochondrial Metabolism,FLCN,1
+Mitochondrial Metabolism,HIGD1A,-1
+Mitochondrial Metabolism,COX7A2L,-1
+Mitochondrial Metabolism,BNIP3,-1
+Mitochondrial Metabolism,PLD6,-1
+Mitochondrial Metabolism,KDR,1
+Mitochondrial Metabolism,DCN,1
+Mitochondrial Metabolism,PYCARD,1
+Mitochondrial Metabolism,GPER1,1
+Mitochondrial Metabolism,BBC3,1
+Mitochondrial Metabolism,MLLT11,-1
+Mitochondrial Metabolism,PLAUR,1
+Mitochondrial Metabolism,MOAP1,-1
+Mitochondrial Metabolism,FAM162A,-1
+Mitochondrial Metabolism,P2RX7,1
+Mitochondrial Metabolism,AFG3L2,-1
+Mitochondrial Metabolism,TMEM223,-1
+Mitochondrial Metabolism,LRPPRC,-1
+Mitochondrial Metabolism,GPD2,1
+Mitochondrial Metabolism,SLC25A18,1
+Mitochondrial Metabolism,SLC25A22,-1
+Mitochondrial Metabolism,SLC25A12,-1
+Mitochondrial Metabolism,RAB29,1
+Mitochondrial Metabolism,RAB3A,-1
+Mitochondrial Metabolism,CHCHD2,-1
+Mitochondrial Metabolism,ARMCX3,-1
+Mitochondrial Metabolism,MTFP1,1
+Mitochondrial Metabolism,MTX2,-1
+Mitochondrial Metabolism,PYROXD2,1
+Mitochondrial Metabolism,BBOX1,1
+Mitochondrial Metabolism,SNCA,-1
+Mitochondrial Metabolism,F2RL3,1
+Mitochondrial Metabolism,AKAP6,-1
+Mitochondrial Metabolism,PRKCE,-1
+Mitochondrial Metabolism,PTPRC,1
+Mitochondrial Metabolism,PLCB1,-1
+Mitochondrial Metabolism,HTR2A,-1
+Mitochondrial Metabolism,FGF2,1
+Mitochondrial Metabolism,PLCE1,1
+Mitochondrial Metabolism,PLCB3,1
+Mitochondrial Metabolism,CPT1B,1
+Mitochondrial Metabolism,SLC25A20,1
+Mitochondrial Metabolism,MAP1LC3B,-1
+Mitochondrial Metabolism,AK4,1
+Mitochondrial Metabolism,SLC25A5,-1
+Mitochondrial Metabolism,SLC25A4,-1
+Mitochondrial Metabolism,NUPR1,1
+Mitochondrial Metabolism,LEPR,1
+Mitochondrial Metabolism,PRLH,1
+Mitochondrial Metabolism,DLL1,1
+Mitochondrial Metabolism,PRCP,1
+Mitochondrial Metabolism,FOXO1,1
+Mitochondrial Metabolism,FMO2,1
+Mitochondrial Metabolism,NCF2,1
+Mitochondrial Metabolism,NCF4,1
+Mitochondrial Metabolism,PGAM1,-1
+Mitochondrial Metabolism,NOXA1,-1
+Mitochondrial Metabolism,ATP5F1A,-1
+Mitochondrial Metabolism,ATP5F1B,-1
+Mitochondrial Metabolism,ALDOA,-1
+Mitochondrial Metabolism,NDUFA6,-1
+Mitochondrial Metabolism,NDUFA12,-1
+Mitochondrial Metabolism,NDUFS4,-1
+Mitochondrial Metabolism,NDUFAB1,-1
+Mitochondrial Metabolism,NDUFA2,-1
+Mitochondrial Metabolism,NDUFA9,-1
+Mitochondrial Metabolism,ATP5PD,-1
+Mitochondrial Metabolism,ATP5PB,-1
+Mitochondrial Metabolism,NDUFS6,-1
+Mitochondrial Metabolism,NDUFB9,-1
+Mitochondrial Metabolism,NDUFA5,-1
+Mitochondrial Metabolism,NDUFV1,-1
+Mitochondrial Metabolism,NDUFB5,-1
+Mitochondrial Metabolism,ATP6V1A,-1
+Mitochondrial Metabolism,ATP5MC3,-1
+Mitochondrial Metabolism,ATP5MJ,-1
+Mitochondrial Metabolism,STARD3,1
+Mitochondrial Metabolism,KIFBP,-1
+Mitochondrial Metabolism,SLC25A14,-1
+Mitochondrial Metabolism,SLC41A3,-1
+Mitochondrial Metabolism,SLC25A3,-1
+Mitochondrial Metabolism,GHITM,-1
+Mitochondrial Metabolism,CCDC51,-1
+Mitochondrial Metabolism,MICU3,-1
+Mitochondrial Metabolism,BAG3,1
+Mitochondrial Metabolism,MGARP,1
+Mitochondrial Metabolism,TIMM10,-1
+Mitochondrial Metabolism,MAVS,1
+Mitochondrial Metabolism,FKBP8,-1
+Mitochondrial Metabolism,MIGA1,-1
+Mitochondrial Metabolism,CHCHD6,-1
+Mitochondrial Metabolism,IMMT,-1
+Mitochondrial Metabolism,TIMM10B,-1
+Mitochondrial Metabolism,TIMM29,-1
+Mitochondrial Metabolism,HSPA1A,1
+Mitochondrial Metabolism,IER3,1
+Mitochondrial Metabolism,TMEM14A,-1
+Mitochondrial Metabolism,BLOC1S2,-1
+Mitochondrial Metabolism,EYA2,1
+Mitochondrial Metabolism,RTL10,-1
+Mitochondrial Metabolism,VDAC2,-1
+Mitochondrial Metabolism,TUSC2,-1
+Mitochondrial Metabolism,CLIC1,1
+Mitochondrial Metabolism,SLC4A11,1
+Mitochondrial Metabolism,ARHGAP11B,1
+Mitochondrial Metabolism,TRAM1,1
+Mitochondrial Metabolism,EP300,1
+Mitochondrial Metabolism,IFIT2,1
+Mitochondrial Metabolism,CDKN2A,1
+Mitochondrial Metabolism,HGF,1
+Mitochondrial Metabolism,LMNA,1
+Mitochondrial Metabolism,CIAPIN1,-1
+Mitochondrial Metabolism,LOXL2,1
+Mitochondrial Metabolism,ASPH,1
+Mitochondrial Metabolism,CYCS,-1
+Mitochondrial Metabolism,AOC2,1
+Mitochondrial Metabolism,NQO2,-1
+Mitochondrial Metabolism,PHGDH,1
+Mitochondrial Metabolism,QDPR,1
+Mitochondrial Metabolism,CHCHD7,-1
+Mitochondrial Metabolism,UQCRC2,-1
+Mitochondrial Metabolism,CYC1,-1
+Mitochondrial Metabolism,UQCRC1,-1
+Mitochondrial Metabolism,DLD,-1
+Mitochondrial Metabolism,COX4I1,-1
+Mitochondrial Metabolism,COX8A,-1
+Mitochondrial Metabolism,COX5A,-1
+Mitochondrial Metabolism,COX6B1,-1
+Mitochondrial Metabolism,COX5B,-1
+Mitochondrial Metabolism,NDUFAF5,-1
+Mitochondrial Metabolism,MSH2,-1
+Mitochondrial Metabolism,ACSM1,1
+Mitochondrial Metabolism,NFATC4,1
+Mitochondrial Metabolism,VGF,-1
+Mitochondrial Metabolism,PPP1R2,-1
+Mitochondrial Metabolism,CAT,1
+Mitochondrial Metabolism,MDH2,-1
+Mitochondrial Metabolism,ME3,-1
+Mitochondrial Metabolism,IDH1,1
+Mitochondrial Metabolism,DLAT,-1
+Mitochondrial Metabolism,PDHA1,-1
+Mitochondrial Metabolism,PDHB,-1
+Mitochondrial Metabolism,SUCLA2,-1
+Mitochondrial Metabolism,IDH3A,-1
+Mitochondrial Metabolism,IDH3G,-1
+Mitochondrial Metabolism,CS,-1
+Mitochondrial Metabolism,FH,-1
+Mitochondrial Metabolism,MDH1B,-1
+Mitochondrial Metabolism,MDH1,-1
+Mitochondrial Metabolism,GAPDH,-1
+Mitochondrial Metabolism,GPI,-1
+Mitochondrial Metabolism,PKM,-1
+Mitochondrial Metabolism,PFKM,-1
+Mitochondrial Metabolism,PGK1,-1
+Mitochondrial Metabolism,HK3,1
+Mitochondrial Metabolism,ENO2,-1
+Mitochondrial Metabolism,TPI1,-1
+Mitochondrial Metabolism,PGAM2,1
+Mitochondrial Metabolism,FAHD1,-1
+Mitochondrial Metabolism,MRPL15,-1
+Mitochondrial Metabolism,MRPS6,1
+Mitochondrial Metabolism,MRPS30,-1
+Mitochondrial Metabolism,MRPL1,-1
+Mitochondrial Metabolism,MRPL2,-1
+Mitochondrial Metabolism,MRPS23,-1
+Mitochondrial Metabolism,MRPS9,-1
+Mitochondrial Metabolism,MRPS18A,-1
+Mitochondrial Metabolism,MRPL32,-1
+Mitochondrial Metabolism,MRPL55,-1
+Mitochondrial Metabolism,MRPS22,-1
+Mitochondrial Metabolism,MRPS21,-1
+Mitochondrial Metabolism,HARS1,-1
+Mitochondrial Metabolism,DROSHA,-1
+Mitochondrial Metabolism,NEFL,-1
+Mitochondrial Metabolism,UCHL1,-1
+Mitochondrial Metabolism,ACTR10,-1
+Mitochondrial Metabolism,UXT,1
+Mitochondrial Metabolism,ANXA6,-1
+Mitochondrial Metabolism,FATE1,-1
+Mitochondrial Metabolism,GABARAPL1,-1
+Mitochondrial Metabolism,FUNDC1,-1
+Mitochondrial Metabolism,CAMKK2,-1
+Proteostasis,B4GALT1,1
+Proteostasis,NPC1,1
+Proteostasis,B4GALT6,-1
+Proteostasis,TUSC3,-1
+Proteostasis,AQP11,-1
+Proteostasis,GALNT9,-1
+Proteostasis,GALNT10,1
+Proteostasis,GALNT11,-1
+Proteostasis,UGGT2,-1
+Proteostasis,KRTCAP2,1
+Proteostasis,DNAJA3,-1
+Proteostasis,HSPA1A,1
+Proteostasis,HSPA8,-1
+Proteostasis,CRYAB,1
+Proteostasis,BAG3,1
+Proteostasis,TCP1,-1
+Proteostasis,DNAJC7,-1
+Proteostasis,HYOU1,-1
+Proteostasis,FKBP8,-1
+Proteostasis,DNAJC19,-1
+Proteostasis,RP2,1
+Proteostasis,CLGN,-1
+Proteostasis,PDIA4,1
+Proteostasis,DNAJC25-GNG10,-1
+Proteostasis,ISG20,1
+Proteostasis,DROSHA,-1
+Proteostasis,CDKN2A,1
+Proteostasis,WBP11,-1
+Proteostasis,NOLC1,-1
+Proteostasis,UTP14C,1
+Proteostasis,TSR2,-1
+Proteostasis,UTP4,-1
+Proteostasis,IMP4,-1
+Proteostasis,EBNA1BP2,-1
+Proteostasis,DDX10,-1
+Proteostasis,XPO1,1
+Proteostasis,P2RX7,1
+Proteostasis,CTSS,1
+Proteostasis,CASP7,1
+Proteostasis,SRGN,1
+Proteostasis,CLN3,1
+Proteostasis,BACE2,1
+Proteostasis,PCSK1,-1
+Proteostasis,COMP,1
+Proteostasis,AEBP1,1
+Proteostasis,PTCH1,1
+Proteostasis,PHEX,1
+Proteostasis,AFG3L2,-1
+Proteostasis,PCSK2,-1
+Proteostasis,CPZ,1
+Proteostasis,ASPRV1,1
+Proteostasis,PLOD3,1
+Proteostasis,TET3,-1
+Proteostasis,DNAJC3,1
+Proteostasis,HSPB1,1
+Proteostasis,HSPB7,1
+Proteostasis,SERPINH1,1
+Proteostasis,CREB3L2,1
+Proteostasis,TRAM1,1
+Proteostasis,HSPB3,-1
+Proteostasis,SPCS1,-1
+Proteostasis,CLIP3,-1
+Proteostasis,CAPN2,1
+Proteostasis,FAM111A,1
+Proteostasis,HOPX,-1
+Proteostasis,TMEM35A,-1
+Proteostasis,CTSH,1
+Proteostasis,PRSS3,-1
+Proteostasis,CAMLG,-1
+Proteostasis,EMC4,-1
+Proteostasis,TM7SF3,-1
+Proteostasis,RPL10L,1
+Proteostasis,ZNHIT3,-1
+Proteostasis,PLAU,1
+Proteostasis,PGK1,-1
+Proteostasis,PCSK1N,-1
+Proteostasis,SCG5,-1
+Proteostasis,ZFP36,1
+Proteostasis,SAMD4A,1
+Proteostasis,PAN2,1
+Proteostasis,GTF2H5,-1
+Proteostasis,UTP3,-1
+Proteostasis,NAA20,-1
+Proteostasis,AARSD1,-1
+Proteostasis,ZFP36L2,1
+Proteostasis,ZFP36L1,1
+Proteostasis,TRAM2,1
+Proteostasis,TRAM1L1,-1
+Proteostasis,DHX36,-1
+Proteostasis,MAK16,-1
+Proteostasis,ABCA1,1
+Proteostasis,MTTP,1
+Proteostasis,PELO,1
+Proteostasis,NDUFAB1,-1
+Proteostasis,GAS1,1
+Proteostasis,DNAJC18,-1
+Proteostasis,HARS1,-1
+Proteostasis,PRKACA,-1
+Proteostasis,RFX4,1
+Proteostasis,PRKACB,-1
+Proteostasis,MARS1,-1
+Proteostasis,RAMP1,1
+Proteostasis,CHP1,-1
+Proteostasis,BBC3,1
+Proteostasis,NARS1,-1
+Proteostasis,USP13,-1
+Proteostasis,EP300,1
+Proteostasis,IL15,1
+Proteostasis,PLAUR,1
+Proteostasis,PLAA,-1
+Proteostasis,NEDD4,1
+Proteostasis,DCAF12,1
+Proteostasis,PCMT1,-1
+Proteostasis,TPGS2,-1
+Proteostasis,TRAF3IP2,1
+Proteostasis,TRIM38,1
+Proteostasis,HERC5,1
+Proteostasis,TRIM56,1
+Proteostasis,TRIM8,1
+Proteostasis,RNF135,1
+Proteostasis,DTX3L,1
+Proteostasis,TRIM37,-1
+Proteostasis,PJA2,-1
+Proteostasis,TRIM22,1
+Proteostasis,RBCK1,1
+Proteostasis,TRIM48,-1
+Proteostasis,FBXO9,-1
+Proteostasis,TRIM34,1
+Proteostasis,TRIM43,-1
+Proteostasis,UBE2N,-1
+Proteostasis,SOCS3,1
+Proteostasis,RNF128,-1
+Proteostasis,TRIM44,-1
+Proteostasis,ZNRF2,1
+Proteostasis,USP5,-1
+Proteostasis,RAB40C,-1
+Proteostasis,BIRC7,1
+Proteostasis,PELI3,-1
+Proteostasis,EIPR1,-1
+Proteostasis,SH3RF1,-1
+Proteostasis,PEX2,1
+Proteostasis,FBXL7,1
+Proteostasis,CDC27,-1
+Proteostasis,KLHL21,1
+Proteostasis,KLHL17,1
+Proteostasis,UHRF1,1
+Proteostasis,WWTR1,1
+Proteostasis,SKP1,-1
+Proteostasis,RNF144B,1
+Proteostasis,RNF130,1
+Proteostasis,USP7,-1
+Proteostasis,UBR5,1
+Proteostasis,HACE1,-1
+Proteostasis,ANAPC16,1
+Proteostasis,ZNRF4,1
+Proteostasis,UBE2T,-1
+Proteostasis,UBE2V2,-1
+Proteostasis,ZSWIM8,1
+Proteostasis,TRIM47,1
+Proteostasis,RNF114,1
+Proteostasis,UNKL,1
+Proteostasis,ELOC,-1
+Proteostasis,MED7,-1
+Proteostasis,WSB2,-1
+Proteostasis,DDA1,-1
+Proteostasis,ASB8,-1
+Proteostasis,TNFAIP3,1
+Proteostasis,OTUB1,-1
+Proteostasis,USP27X,-1
+Proteostasis,UCHL1,-1
+Proteostasis,UCHL5,-1
+Proteostasis,USP17L29,-1
+Proteostasis,USP17L1,-1
+Proteostasis,USP17L4,-1
+Proteostasis,USP11,-1
+Proteostasis,DESI2,1
+Proteostasis,MAGEA2B,1
+Proteostasis,MAGEA2,1
+Proteostasis,ABCA7,1
+Proteostasis,IL10RA,1
+Proteostasis,ENTREP1,1
+Proteostasis,EIF2S1,-1
+Proteostasis,ERLEC1,-1
+Proteostasis,ANAPC15,-1
+Proteostasis,TMED10,1
+Proteostasis,TRAPPC2L,-1
+Proteostasis,SEC23A,-1
+Proteostasis,TRARG1,1
+Proteostasis,SASH1,1
+Proteostasis,DPH6,-1
+Proteostasis,SEC61G,-1
+Proteostasis,EIF2AK2,1
+Proteostasis,EEF1G,1
+Proteostasis,EEF1A2,-1
+Proteostasis,MRPL15,-1
+Proteostasis,MRPS6,1
+Proteostasis,MRPS30,-1
+Proteostasis,MRPL1,-1
+Proteostasis,MRPL2,-1
+Proteostasis,MRPS23,-1
+Proteostasis,MRPS9,-1
+Proteostasis,MRPS18A,-1
+Proteostasis,MRPL32,-1
+Proteostasis,MRPL55,-1
+Proteostasis,RPL15,-1
+Proteostasis,MRPS21,-1
+Proteostasis,EIF2S3,-1
+Proteostasis,EIF4H,-1
+Proteostasis,GUF1,-1
+Proteostasis,GSPT2,-1
+Proteostasis,EIF4E3,-1
+Proteostasis,EIF5A2,-1
+Proteostasis,RRBP1,1
+Proteostasis,GAPDH,-1
+Proteostasis,PKM,-1
+Proteostasis,BZW2,-1
+Proteostasis,CASC3,1
+Proteostasis,RBM3,-1
+Proteostasis,HABP4,-1
+Proteostasis,EIF4EBP1,1
+Proteostasis,MIF4GD,1
+Proteostasis,ELP4,1
+Proteostasis,POLDIP3,1
+Proteostasis,DDX25,-1
+Proteostasis,EEF2K,1
+Proteostasis,TCEA2,-1
+Proteostasis,TCEAL4,-1
+Proteostasis,ANG,1
+Proteostasis,CIRBP,-1
+Proteostasis,IL6,1
+Proteostasis,BCL3,1
+Proteostasis,PTAFR,1
+Proteostasis,HNRNPD,-1
+Proteostasis,LARP1B,-1
+Proteostasis,MRPS22,-1
+Proteostasis,DDX1,-1
+Proteostasis,CDC123,-1
+Proteostasis,LRPPRC,-1
+Proteostasis,OGFOD1,-1
+Proteostasis,NMNAT2,-1
+Proteostasis,PER2,-1
+Proteostasis,SESN2,1
+Proteostasis,PSMA1,-1
+Proteostasis,RHOBTB3,1
+Proteostasis,PSMD13,-1
+Proteostasis,TBL1X,1
+Proteostasis,PSMB4,-1
+Proteostasis,PSMA3,-1
+Proteostasis,PSMC1,-1
+Proteostasis,PSMB7,-1
+Proteostasis,PSMD8,-1
+Proteostasis,PSMD12,-1
+Proteostasis,POMP,-1
+Proteostasis,TREM2,1
+Proteostasis,NUPR1,1
+Proteostasis,LATS1,1
+Proteostasis,NQO1,1
+Proteostasis,BBS7,-1
+Proteostasis,FBXO17,1
+Proteostasis,NCCRP1,1
+Proteostasis,RAB29,1
+Proteostasis,RAB2A,-1
+Proteostasis,RAB8A,1
+Proteostasis,ZFP69B,-1
+Proteostasis,ATL3,1
+Proteostasis,EHD3,-1
+Proteostasis,RBSN,-1
+Proteostasis,GBP5,1
+Proteostasis,RAB6A,-1
+Proteostasis,SYS1,1
+Proteostasis,TMED5,1
+Proteostasis,CTH,-1
+Proteostasis,ATP9A,-1
+Proteostasis,PITPNB,-1
+Proteostasis,ARF3,-1
+Proteostasis,ARF5,-1
+Proteostasis,TRAPPC9,-1
+Proteostasis,COPG1,-1
+Proteostasis,RANGRF,1
+Proteostasis,TMEM38A,-1
+Proteostasis,ATL1,-1
+Proteostasis,CXCL8,1
+Proteostasis,CEBPB,1
+Proteostasis,SCAMP5,-1
+Proteostasis,TNFRSF10B,1
+Proteostasis,ELAVL4,-1
+Proteostasis,FCGR2B,1
+Proteostasis,SERINC3,-1
+Proteostasis,G3BP1,1
+Proteostasis,G3BP2,-1
+Proteostasis,AASDHPPT,-1
+Proteostasis,TASP1,-1
+Proteostasis,NSF,-1
+Proteostasis,NAPG,-1
+Proteostasis,SNAP23,1
+Proteostasis,SCAMP1,-1
+Proteostasis,SORCS1,-1
+Proteostasis,EXOC8,-1
+Proteostasis,VAMP2,-1
+Proteostasis,VAMP5,1
+Proteostasis,MACF1,1
+Proteostasis,RAB14,-1
+Structural Stabilization,ITGB2,1
+Structural Stabilization,AGER,1
+Structural Stabilization,JAM3,1
+Structural Stabilization,NINJ1,1
+Structural Stabilization,POPDC1,1
+Structural Stabilization,PRKCE,-1
+Structural Stabilization,ITGAL,1
+Structural Stabilization,ADA,1
+Structural Stabilization,CD177,1
+Structural Stabilization,INPPL1,1
+Structural Stabilization,ATP1B1,-1
+Structural Stabilization,CCR1,1
+Structural Stabilization,B4GALT1,1
+Structural Stabilization,CCL2,1
+Structural Stabilization,TRIP6,1
+Structural Stabilization,FN1,1
+Structural Stabilization,TNFAIP6,1
+Structural Stabilization,ITGB8,1
+Structural Stabilization,CD164,1
+Structural Stabilization,AZGP1,1
+Structural Stabilization,PRKX,1
+Structural Stabilization,ITGB1,1
+Structural Stabilization,CCN4,1
+Structural Stabilization,PECAM1,1
+Structural Stabilization,CDH26,1
+Structural Stabilization,CD93,1
+Structural Stabilization,ITGA5,1
+Structural Stabilization,ITGA6,1
+Structural Stabilization,LAMB2,1
+Structural Stabilization,FES,1
+Structural Stabilization,CLDN1,1
+Structural Stabilization,GPNMB,1
+Structural Stabilization,LOXL2,1
+Structural Stabilization,MEGF10,1
+Structural Stabilization,SLURP1,1
+Structural Stabilization,SPP1,1
+Structural Stabilization,HPSE,1
+Structural Stabilization,ASTN1,-1
+Structural Stabilization,LYVE1,1
+Structural Stabilization,FERMT3,1
+Structural Stabilization,CD9,1
+Structural Stabilization,CD33,1
+Structural Stabilization,VCAN,1
+Structural Stabilization,ERBIN,1
+Structural Stabilization,CLSTN1,-1
+Structural Stabilization,MFAP4,1
+Structural Stabilization,PALLD,1
+Structural Stabilization,PXN,1
+Structural Stabilization,LPP,1
+Structural Stabilization,DDR1,1
+Structural Stabilization,CDH13,-1
+Structural Stabilization,JUP,1
+Structural Stabilization,LAMA5,1
+Structural Stabilization,TNXB,1
+Structural Stabilization,TLN1,1
+Structural Stabilization,COMP,1
+Structural Stabilization,FAP,1
+Structural Stabilization,ITGA10,1
+Structural Stabilization,ACTN2,-1
+Structural Stabilization,CLDN7,1
+Structural Stabilization,CLDN23,1
+Structural Stabilization,CLDN5,1
+Structural Stabilization,CLDN19,1
+Structural Stabilization,CLDN11,1
+Structural Stabilization,COL18A1,1
+Structural Stabilization,LAMA1,1
+Structural Stabilization,SRPX2,1
+Structural Stabilization,DPT,-1
+Structural Stabilization,FREM3,-1
+Structural Stabilization,SPECC1L,1
+Structural Stabilization,AJUBA,1
+Structural Stabilization,PARVG,1
+Structural Stabilization,PKN2,1
+Structural Stabilization,MPZL2,1
+Structural Stabilization,ESAM,1
+Structural Stabilization,CDH19,1
+Structural Stabilization,FBLN7,-1
+Structural Stabilization,DDR2,1
+Structural Stabilization,PCDH11Y,-1
+Structural Stabilization,CLSTN3,-1
+Structural Stabilization,PCDHB15,1
+Structural Stabilization,NEO1,1
+Structural Stabilization,HAPLN1,-1
+Structural Stabilization,PCDH8,-1
+Structural Stabilization,TNFRSF12A,1
+Structural Stabilization,NRXN3,-1
+Structural Stabilization,IGFALS,-1
+Structural Stabilization,CDH23,1
+Structural Stabilization,NEGR1,-1
+Structural Stabilization,SIGLEC8,1
+Structural Stabilization,ADAM12,1
+Structural Stabilization,SPACA4,1
+Structural Stabilization,PCDH18,1
+Structural Stabilization,PCDHGA1,1
+Structural Stabilization,PCDHGA5,1
+Structural Stabilization,PCDHGC3,1
+Structural Stabilization,PCDHGB6,1
+Structural Stabilization,CYFIP2,-1
+Structural Stabilization,NUAK1,-1
+Structural Stabilization,CNTNAP5,-1
+Structural Stabilization,CSTA,1
+Structural Stabilization,ROBO2,-1
+Structural Stabilization,PLXNB3,1
+Structural Stabilization,DOCK2,1
+Structural Stabilization,MSN,1
+Structural Stabilization,TNFAIP3,1
+Structural Stabilization,HLA-DRB1,1
+Structural Stabilization,SIPA1,1
+Structural Stabilization,ARC,-1
+Structural Stabilization,PACSIN1,-1
+Structural Stabilization,SH3KBP1,-1
+Structural Stabilization,TUBB6,1
+Structural Stabilization,YEATS4,-1
+Structural Stabilization,CFAP47,1
+Structural Stabilization,FGD3,1
+Structural Stabilization,WTIP,1
+Structural Stabilization,FITM2,-1
+Structural Stabilization,STRIP2,-1
+Structural Stabilization,PLCE1,1
+Structural Stabilization,CAP2,-1
+Structural Stabilization,ABLIM2,-1
+Structural Stabilization,RAF1,1
+Structural Stabilization,INA,-1
+Structural Stabilization,DSP,1
+Structural Stabilization,MACF1,1
+Structural Stabilization,SYNM,1
+Structural Stabilization,DLL1,1
+Structural Stabilization,CXCR4,1
+Structural Stabilization,CXCL8,1
+Structural Stabilization,ROCK1,1
+Structural Stabilization,CYTIP,1
+Structural Stabilization,GPR4,1
+Structural Stabilization,ROCK2,-1
+Structural Stabilization,PLAU,1
+Structural Stabilization,PLAUR,1
+Structural Stabilization,TGFB2,1
+Structural Stabilization,LOXL3,1
+Structural Stabilization,ANXA2,1
+Structural Stabilization,SFRP2,1
+Structural Stabilization,FMOD,1
+Structural Stabilization,FOXC2,1
+Structural Stabilization,PLOD3,1
+Structural Stabilization,SERPINH1,1
+Structural Stabilization,P4HA1,1
+Structural Stabilization,COLGALT1,1
+Structural Stabilization,FKBP10,1
+Structural Stabilization,ODAD3,1
+Structural Stabilization,ODAD1,1
+Structural Stabilization,CLN3,1
+Structural Stabilization,CAPN2,1
+Structural Stabilization,STMN3,-1
+Structural Stabilization,PLXNB1,1
+Structural Stabilization,GFAP,1
+Structural Stabilization,NEFL,-1
+Structural Stabilization,KRT9,1
+Structural Stabilization,FOXJ1,1
+Structural Stabilization,RSPH1,-1
+Structural Stabilization,DCLK1,-1
+Structural Stabilization,ARAP1,1
+Structural Stabilization,DLC1,1
+Structural Stabilization,RHPN2,1
+Structural Stabilization,TEKT2,1
+Structural Stabilization,KANK1,1
+Structural Stabilization,SYK,1
+Structural Stabilization,ATP8A2,-1
+Structural Stabilization,NDEL1,-1
+Structural Stabilization,CAV1,1
+Structural Stabilization,RHOC,1
+Structural Stabilization,EPB41L3,-1
+Structural Stabilization,PRKACA,-1
+Structural Stabilization,SNAI2,1
+Structural Stabilization,PRKCH,1
+Structural Stabilization,GPBAR1,1
+Structural Stabilization,TCAP,1
+Structural Stabilization,GJB2,1
+Structural Stabilization,GJA1,1
+Structural Stabilization,NEFM,-1
+Structural Stabilization,HOPX,-1
+Structural Stabilization,IKBKB,1
+Structural Stabilization,CTSS,1
+Structural Stabilization,PTPRC,1
+Structural Stabilization,ATP5F1B,-1
+Structural Stabilization,FZD4,1
+Structural Stabilization,LRP5,1
+Structural Stabilization,SUN2,1
+Structural Stabilization,PLEKHA7,1
+Structural Stabilization,EZR,1
+Structural Stabilization,HTR2A,-1
+Structural Stabilization,SMAD4,1
+Structural Stabilization,AEBP1,1
+Structural Stabilization,WHRN,1
+Structural Stabilization,RTKN,1
+Structural Stabilization,HYAL1,1
+Structural Stabilization,PCOLCE,1
+Structural Stabilization,TRAM2,1
+Structural Stabilization,TGFB3,1
+Structural Stabilization,RGCC,1
+Structural Stabilization,KPTN,1
+Structural Stabilization,HIP1,1
+Structural Stabilization,GSN,1
+Structural Stabilization,CNN3,1
+Structural Stabilization,ARHGAP17,1
+Structural Stabilization,ELMO1,-1
+Structural Stabilization,ALDOA,-1
+Structural Stabilization,TAGLN2,1
+Structural Stabilization,TAGLN3,-1
+Structural Stabilization,TYROBP,1
+Structural Stabilization,BCL6,1
+Structural Stabilization,RHOH,1
+Structural Stabilization,EPS8,1
+Structural Stabilization,TRIP10,1
+Structural Stabilization,RHOJ,1
+Structural Stabilization,WASF1,-1
+Structural Stabilization,MRAS,1
+Structural Stabilization,PDLIM5,1
+Structural Stabilization,PRICKLE4,-1
+Structural Stabilization,PDLIM1,1
+Structural Stabilization,PDLIM3,1
+Structural Stabilization,SMTN,1
+Structural Stabilization,RFLNB,1
+Structural Stabilization,SSH2,1
+Structural Stabilization,COBL,1
+Structural Stabilization,PFN2,-1
+Structural Stabilization,KRAS,-1
+Structural Stabilization,KLHL17,1
+Structural Stabilization,ARHGEF10,1
+Structural Stabilization,IQSEC1,-1
+Structural Stabilization,CAPG,1
+Structural Stabilization,PREX1,1
+Structural Stabilization,FCHSD1,1
+Structural Stabilization,ELN,1
+Structural Stabilization,LATS1,1
+Structural Stabilization,ARPC5L,-1
+Structural Stabilization,PAK1,-1
+Structural Stabilization,RAPGEF3,1
+Structural Stabilization,CSF1R,1
+Structural Stabilization,BST2,1
+Structural Stabilization,RHOQ,1
+Structural Stabilization,FAM107A,1
+Structural Stabilization,STAU2,-1
+Structural Stabilization,IQGAP2,1
+Structural Stabilization,PLEK,1
+Structural Stabilization,LCP1,1
+Structural Stabilization,DSTN,-1
+Structural Stabilization,SWAP70,1
+Structural Stabilization,CALD1,1
+Structural Stabilization,DPYSL3,1
+Structural Stabilization,ANG,1
+Structural Stabilization,PYCARD,1
+Structural Stabilization,CDC42EP4,1
+Structural Stabilization,GPR65,1
+Structural Stabilization,S100A10,1
+Structural Stabilization,PPM1E,-1
+Structural Stabilization,KANK3,1
+Structural Stabilization,KANK2,1
+Structural Stabilization,P2RX7,1
+Structural Stabilization,RGS4,-1
+Structural Stabilization,ANGPT1,1
+Structural Stabilization,ECM2,1
+Structural Stabilization,MKLN1,1
+Structural Stabilization,TIMM10B,-1
+Structural Stabilization,HOXD3,1
+Structural Stabilization,AXL,1
+Structural Stabilization,FZD7,1
+Structural Stabilization,ANTXR1,1
+Structural Stabilization,EFNA1,1
+Structural Stabilization,APBB1IP,1
+Structural Stabilization,ATM,1
+Structural Stabilization,FLCN,1
+Structural Stabilization,PPP3CA,-1
+Structural Stabilization,DOCK5,1
+Structural Stabilization,DOCK1,1
+Structural Stabilization,ABI3BP,1
+Structural Stabilization,EGFLAM,1
+Structural Stabilization,FOXF1,1
+Structural Stabilization,HSD17B12,-1
+Structural Stabilization,DUSP1,1
+Structural Stabilization,PRKCZ,-1
+Structural Stabilization,KDR,1
+Structural Stabilization,CDKN2A,1
+Structural Stabilization,NOTCH1,1
+Structural Stabilization,ANGPT2,1
+Structural Stabilization,PIK3CG,1
+Structural Stabilization,TNS1,1
+Structural Stabilization,RIN2,1
+Structural Stabilization,CRYAB,1
+Structural Stabilization,GAPDH,-1
+Structural Stabilization,TUBB4B,-1
+Structural Stabilization,SPATA7,-1
+Structural Stabilization,DYNC1LI1,-1
+Structural Stabilization,KATNA1,1
+Structural Stabilization,KIFBP,-1
+Structural Stabilization,CDC14A,1
+Structural Stabilization,TUBB2A,-1
+Structural Stabilization,MAP7D2,-1
+Structural Stabilization,WEE1,1
+Structural Stabilization,UXT,1
+Structural Stabilization,TXNDC9,-1
+Structural Stabilization,MAP2,-1
+Structural Stabilization,CLIP3,-1
+Structural Stabilization,TUBG2,-1
+Structural Stabilization,CHP1,-1
+Structural Stabilization,NUMA1,1
+Structural Stabilization,PSRC1,1
+Structural Stabilization,IFT54,-1
+Structural Stabilization,CDK2AP2,1
+Structural Stabilization,BLOC1S2,-1
+Structural Stabilization,NEDD1,1
+Structural Stabilization,NDE1,1
+Structural Stabilization,LZTS2,1
+Structural Stabilization,STMN2,-1
+Structural Stabilization,MAPRE3,-1
+Structural Stabilization,MID1IP1,1
+Structural Stabilization,FGF13,-1
+Structural Stabilization,BMERB1,-1
+Structural Stabilization,SNCA,-1
+Structural Stabilization,SLC39A12,1
+Structural Stabilization,LMNA,1
+Structural Stabilization,HSPA1A,1
+Structural Stabilization,MZT1,-1
+Structural Stabilization,HEG1,1
+Structural Stabilization,TJP2,1
+Structural Stabilization,SCRIB,1
+Structural Stabilization,ANXA1,1
+Structural Stabilization,CD200,-1
+Structural Stabilization,EGFR,1
+Structural Stabilization,CD58,1
+Structural Stabilization,IGDCC4,1
+Structural Stabilization,LGALS7,-1
+Structural Stabilization,HDAC7,1
+Structural Stabilization,MYO10,1
+Structural Stabilization,FGFRL1,1
+Structural Stabilization,NRARP,-1
+Structural Stabilization,LEF1,1
+Structural Stabilization,CSK,1
+Structural Stabilization,BMP6,1
+Structural Stabilization,FXYD5,1
+Structural Stabilization,BCL3,1
+Structural Stabilization,TNFRSF11B,1
+Structural Stabilization,ADAMTS1,1
+Structural Stabilization,OLFML2A,1
+Structural Stabilization,NPHP3,1
+Structural Stabilization,EXOC8,-1
+Structural Stabilization,KLK7,-1
+Structural Stabilization,IL6,1
+Structural Stabilization,SLC2A10,1
+Structural Stabilization,TNFRSF1B,1
+Structural Stabilization,TNFRSF1A,1
+Structural Stabilization,ADTRP,-1
+Structural Stabilization,CFLAR,1
+Synapse,RAP2A,-1
+Synapse,SNAP25,-1
+Synapse,PDLIM5,1
+Synapse,CLSTN3,-1
+Synapse,NEGR1,-1
+Synapse,TLR2,1
+Synapse,ROBO2,-1
+Synapse,BDNF,-1
+Synapse,WNT7A,-1
+Synapse,CLSTN1,-1
+Synapse,SRPX2,1
+Synapse,STAU2,-1
+Synapse,EEF2K,1
+Synapse,CBLN2,-1
+Synapse,NFATC4,1
+Synapse,CHCHD10,-1
+Synapse,C1QB,1
+Synapse,PTPN13,1
+Synapse,FGF13,-1
+Synapse,PLXNB1,1
+Synapse,CBLN4,-1
+Synapse,GABRG2,-1
+Synapse,GABRB2,-1
+Synapse,GABRA1,-1
+Synapse,SNCA,-1
+Synapse,LAMB2,1
+Synapse,LRP4,1
+Synapse,SYN1,-1
+Synapse,PCDHGC3,1
+Synapse,ELFN1,-1
+Synapse,ROCK1,1
+Synapse,NEFL,-1
+Synapse,HOMER1,-1
+Synapse,TYROBP,1
+Synapse,TREM2,1
+Synapse,RAB29,1
+Synapse,DNM3,-1
+Synapse,NRXN3,-1
+Synapse,ITGB1,1
+Synapse,NFIA,1
+Synapse,SEZ6L2,-1
+Synapse,PCDH8,-1
+Synapse,SPARCL1,-1
+Synapse,VGF,-1
+Synapse,HTR2A,-1
+Synapse,DOC2A,-1
+Synapse,SLC12A4,1
+Synapse,AKAP5,-1
+Synapse,SYT5,-1
+Synapse,UNC119,1
+Synapse,SYT1,-1
+Synapse,RAPSN,1
+Synapse,DLG3,-1
+Synapse,GAD1,-1
+Synapse,GRM4,1
+Synapse,CACNB1,-1
+Synapse,CARTPT,-1
+Synapse,FGF12,-1
+Synapse,SLC1A3,1
+Synapse,GAD2,-1
+Synapse,GABBR2,-1
+Synapse,NPTX2,-1
+Synapse,SST,-1
+Synapse,SV2B,-1
+Synapse,CPLX1,-1
+Synapse,SV2C,-1
+Synapse,GABRD,-1
+Synapse,STXBP1,-1
+Synapse,CLN3,1
+Synapse,KRAS,-1
+Synapse,PHF24,-1
+Synapse,RAB3A,-1
+Synapse,EGR3,-1
+Synapse,FCHSD1,1
+Synapse,RIMBP2,-1
+Synapse,PRKCE,-1
+Synapse,CA2,1
+Synapse,PRKCZ,-1
+Synapse,RIMS1,-1
+Synapse,ADRB2,1
+Synapse,SLC4A8,-1
+Synapse,PRKACA,-1
+Synapse,PLCB1,-1
+Synapse,PPP3CA,-1
+Synapse,INA,-1
+Synapse,SORCS3,-1
+Synapse,ADORA2B,1
+Synapse,ADCY1,-1
+Synapse,HIP1,1
+Synapse,PFN2,-1
+Synapse,SYT12,-1
+Synapse,PLAA,-1
+Synapse,PVALB,-1
+Synapse,NSG1,-1
+Synapse,AP3B2,-1
+Synapse,SCRIB,1
+Synapse,AGER,1
+Synapse,STX1B,-1
+Synapse,KCNJ10,1
+Synapse,TBC1D24,-1
+Synapse,RGS4,-1
+Synapse,NETO1,-1
+Synapse,SYT7,-1
+Synapse,HOMER3,1
+Synapse,NPTXR,-1
+Synapse,JAM3,1
+Synapse,CTSH,1
+Synapse,ADRB1,-1
+Synapse,GRIA4,-1
+Synapse,P2RX7,1
+Synapse,MAPK8IP2,-1
+Synapse,ISL1,1
+Synapse,ATP2B3,-1
+Synapse,FZD1,1
+Synapse,RPH3A,-1
+Synapse,ARC,-1
+Synapse,HPCA,-1
+Synapse,AP2M1,-1
+Synapse,CALY,-1
+Synapse,PNKD,-1
+Synapse,ASCL1,1
+Synapse,VIP,-1
+Synapse,GPR171,1
+Synapse,ADCYAP1,-1
+Synapse,PCSK1N,-1
+Synapse,SCG5,-1
+Synapse,GPR151,1
+Synapse,SORCS1,-1
+Synapse,KCNQ1,1
+Synapse,CRHBP,-1
+Synapse,TMED10,1
+Synapse,SYNGR3,-1
+Synapse,CHDH,1
+Synapse,HPRT1,-1
+Synapse,TGFB2,1
+Synapse,PHGDH,1
+Synapse,NEDD4,1
+Synapse,BECN1,-1
+Synapse,SPP1,1
+Synapse,DCLK1,-1
+Synapse,PLXNB3,1
+Synapse,SEMA3F,1
+Synapse,FN1,1
+Synapse,MACF1,1
+Synapse,MAP3K13,-1
+Synapse,GDI1,-1
+Synapse,OLFM1,-1
+Synapse,MAP2,-1
+Synapse,PTCH1,1
+Synapse,NFIB,1
+Synapse,EPB41L3,-1
+Synapse,GAP43,-1
+Synapse,NMNAT2,-1
+Synapse,DDR1,1
+Synapse,MGARP,1
+Synapse,PAK1,-1
+Synapse,EFNA1,1
+Synapse,POU3F2,1
+Synapse,NRDC,-1
+Synapse,NDEL1,-1
+Synapse,B4GALT6,-1
+Synapse,KIFBP,-1
+Synapse,NOTCH1,1
+Synapse,ATP8A2,-1
+Synapse,RAB8A,1
+Synapse,UCHL1,-1
+Synapse,S100A6,1
+Synapse,AFG3L2,-1
+Synapse,ATL1,-1
+Synapse,CSF1R,1
+Synapse,SMAD4,1
+Synapse,GLI2,1
+Synapse,PALLD,1
+Synapse,NEO1,1
+Synapse,CYFIP2,-1
+Synapse,FOXD1,1
+Synapse,ARHGEF40,1
+Synapse,KIAA1755,1
+Synapse,EFNA4,1
+Synapse,CLDN11,1
+Synapse,COBL,1
+Synapse,ATP9A,-1
+Synapse,PACSIN1,-1
+Synapse,WEE1,1
+Synapse,SGK1,1
+Synapse,IL6,1
+Synapse,RAB6A,-1
+Synapse,GFAP,1
+Synapse,BLOC1S2,-1
+Synapse,STMN2,-1
+Synapse,WASF1,-1
+Synapse,TNXB,1
+Synapse,LAMA1,1
+Synapse,STMN3,-1
+Synapse,BLOC1S5,1
+Synapse,ERCC6,-1
+Synapse,EFHD1,1
+Synapse,ATXN10,-1
+Synapse,CLMN,1
+Synapse,KIF3A,-1
+Synapse,ATP1A3,-1
+Synapse,EP300,1
+Synapse,CFLAR,1
+Synapse,CAMK1D,-1
+Synapse,ITGA6,1
+Synapse,FES,1
+Synapse,DDR2,1
+Synapse,DPYSL3,1
+Synapse,NDRG4,-1
+Synapse,ATF1,1
+Synapse,PPP2R5B,-1
+Synapse,SERPINI1,-1
+Synapse,SFRP2,1
+Synapse,SLC39A12,1
+Synapse,KANK1,1
+Synapse,PRAG1,-1
+Synapse,IQGAP1,1
+Synapse,NRN1,-1
+Synapse,DNAJA3,-1
+Synapse,PPFIBP2,1
+Synapse,CCL2,1
+Synapse,REC8,1
+Synapse,EN2,1
+Synapse,GPER1,1
+Synapse,RAF1,1
+Synapse,DDIT4,1
+Synapse,TLR3,1
+Synapse,TLR4,1
+Synapse,CEBPB,1
+Synapse,CFAP47,1
+Synapse,MEIG1,1
+Synapse,CTSS,1
+Synapse,ACTN2,-1
+Synapse,VAMP2,-1
+Synapse,ARHGAP17,1
+Synapse,FXYD5,1
+Synapse,RANGRF,1
+Synapse,SCN3B,-1
+Synapse,FXYD3,1
+Synapse,KCNC2,-1
+Synapse,AKAP6,-1
+Synapse,CLIC2,1
+Synapse,GSTO1,-1
+Synapse,ASPH,1
+Synapse,KCNE3,1
+Synapse,KCNAB1,-1
+Synapse,KCNE4,1
+Synapse,GUCY1B1,-1
+Synapse,NQO1,1
+Synapse,MAPK9,-1
+Synapse,SRGN,1
+Synapse,DNM1,-1
+Synapse,SLC17A7,-1
+Synapse,SLC6A12,1
+Synapse,GJA1,1
+Synapse,PER2,-1
+Synapse,PTGER1,1
+Synapse,SYK,1
+Synapse,AHNAK,1
+Synapse,CABP1,-1
+Synapse,EHD3,-1
+Synapse,NREP,-1
+Synapse,INPP5F,-1
+Synapse,CERS2,1
+Synapse,AXL,1
+Synapse,BNIP3,-1
+Synapse,FGF2,1
+Synapse,PCSK1,-1
+Synapse,ADM,1
+Synapse,RAB27A,1
+Synapse,SYNJ1,-1
+Synapse,HSPB1,1
+Synapse,ARMCX3,-1
+Synapse,ACTR10,-1
+Synapse,HSPA8,-1
+Synapse,GRIP1,-1
+Synapse,KIF17,-1
+Synapse,SYP,-1
+Synapse,STON2,1
+Synapse,SNAP23,1
+Synapse,STX2,1
+Synapse,ARHGDIA,-1
+Synapse,ATP6V0D1,-1
+Synapse,ATP6V1A,-1
+Synapse,ATP6V1E1,-1
+Synapse,ATP6V1C1,-1
+Synapse,ATP6V1H,-1
+Synapse,ATP6V1D,-1
+Synapse,ATP6V1B2,-1
+Synapse,ATP6V1G2,-1
+Synapse,LIN7B,-1
+Synapse,PTPRN2,-1
+Synapse,SLC38A2,1
+Synapse,SLC6A17,-1
+Synapse,ICA1,-1
+Synapse,SLC6A16,1
+Synapse,PLEK,1
+Synapse,RAB3D,-1
+Synapse,EXOC8,-1
+Synapse,LAMA5,1
+Synapse,STK38,1
+Synapse,IL10RA,1
+Synapse,TANC1,1
+Synapse,DHX36,-1
+Synapse,NGEF,-1
+Synapse,IQSEC1,-1
+Synapse,ARHGEF9,-1
+Synapse,EPS8,1
+Synapse,ERBIN,1
+Synapse,STXBP4,1
+Synapse,EZR,1
+Synapse,SLC11A2,-1
+Synapse,RBFOX2,-1
+Synapse,ELAVL4,-1
+Synapse,CXCR4,1
+Synapse,CPNE5,-1
+Synapse,PREX1,1
+Synapse,FZD4,1
+Synapse,SULT4A1,-1
+Synapse,MAPK6,-1
+Synapse,FCGR2B,1
+Synapse,KCNJ3,-1
+Synapse,CAP2,-1
+Synapse,GPI,-1
+Synapse,EGFR,1
+Synapse,GATM,1
+Synapse,SYAP1,-1
+Synapse,FAM107A,1
+Synapse,CLDN5,1
+Synapse,RAPGEF3,1
+Synapse,ABCA7,1
